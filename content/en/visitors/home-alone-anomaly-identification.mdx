@@ -1,0 +1,117 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Home Alone Anomaly Identification Guide",
+  description: "Learn how to identify anomalies in Home Alone Anomaly with our comprehensive guide, including tips, tricks, and strategies.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=Home+Alone+Anomaly+Identification+Guide",
+  date: "2026-07-24",
+  author: "home alone anomaly Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Identify Anomalies**: Learn the signs to spot anomalies in the game.
+- **Tips for Survival**: Essential tips to survive encounters with anomalies.
+- **Best Equipment**: Optimal gear for dealing with anomalies.
+- **Strategies for Victory**: Proven strategies to overcome anomalies and win.
+</Callout>
+
+<Section icon={Map} title="Understanding Anomalies">
+
+<Callout type="tip" title="What are Anomalies?">
+Anomalies are unusual occurrences that can appear in the game, often causing unexpected challenges and requiring different strategies to handle.
+</Callout>
+
+<Checklist
+  id="anomaly-signs"
+  title="Signs of Anomalies:"
+  items={[
+    "Unusual weather patterns",
+    "Abnormal behavior of NPCs",
+    "Suddenly appearing obstacles",
+    "Increased difficulty in tasks"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Survival Tips">
+
+<Steps>
+  <Step num="1" title="Stay Alert">
+    Always be on the lookout for signs of anomalies. Pay attention to your surroundings and stay vigilant.
+  </Step>
+  <Step num="2" title="Prepare for the Unexpected">
+    Have a backup plan in case an anomaly occurs. Always be prepared with extra supplies and resources.
+  </Step>
+  <Step num="3" title="Use Equipment Wisely">
+    Utilize your equipment effectively. For example, use protective gear to shield yourself from anomalies.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Equipment and Gear">
+
+<CardGrid cols={3}>
+  <Card title="Protective Gear">
+    - **Armor**: Offers protection against anomalies.
+    - **Shields**: Blocks attacks from anomalies.
+  </Card>
+  <Card title="Utility Items">
+    - **Flashlights**: Helps in low-light anomalies.
+    - **First Aid Kits**: Useful for treating injuries.
+  </Card>
+  <Card title="Specialized Tools">
+    - **Anomaly Detectors**: Identifies anomalies before they become dangerous.
+    - **Anomaly Disruptors**: Neutralizes anomalies, allowing you to safely pass through.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Strategies for Overcoming Anomalies">
+
+<Callout type="warning" title="Important Strategy">
+Always prioritize your safety. If an anomaly is too dangerous to handle, it's better to retreat and regroup.
+</Callout>
+
+<Steps>
+  <Step num="1" title="Identify the Anomaly">
+    Determine the type of anomaly you're facing. This will help you choose the right strategy.
+  </Step>
+  <Step num="2" title="Plan Your Approach">
+  Develop a plan based on the anomaly's behavior and your resources.
+  </Step>
+  <Step num="3" title="Execute Your Plan">
+  Carry out your plan while staying alert for any changes in the anomaly's behavior.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "How do I recognize an anomaly in the game?",
+    answer: "Look for unusual weather patterns, abnormal behavior of NPCs, or suddenly appearing obstacles."
+  },
+  {
+    question: "What should I do if I encounter an anomaly?",
+    answer: "Stay alert, use your equipment wisely, and if the anomaly is too dangerous, retreat and regroup."
+  },
+  {
+    question: "Are there any specific tools to help with anomalies?",
+    answer: "Yes, anomaly detectors and disruptors can help identify and neutralize anomalies."
+  }
+]} />
+
+</Section>

@@ -10,7 +10,14 @@
       "twitterDescription": "Explore the Home Alone Anomaly walkthrough, visitors, anomalies, endings, and survival tips for the Roblox doorstep horror game."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "walkthrough": "Walkthrough",
+    "visitors": "Visitors",
+    "survival": "Survival",
+    "endings": "Endings",
+    "mechanics": "Mechanics"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -619,6 +626,26 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
+    "guide": {
+      "title": "Home Alone Anomaly Guide",
+      "description": "Complete beginner guide to Home Alone Anomaly: learn the house layout, objective, starting route, and how to play from your very first night.",
+      "metaTitle": "Home Alone Anomaly Guide - How to Play & Beginner Tips",
+      "metaDescription": "Start strong with our complete Home Alone Anomaly guide covering the house layout, objective, starting route, and beginner steps for surviving your first night.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "What is the guide?",
+      "whatIsDescription": "A complete introduction to Home Alone Anomaly that explains the objective, the house layout, the starting route, and the core loop of inspecting visitors and surviving the night.",
+      "why": "Why start with the guide?",
+      "whySteps": {
+        "step1Title": "Learn the House Layout",
+        "step1Description": "Map out rooms, doors, and the return route before the night begins",
+        "step2Title": "Understand the Objective",
+        "step2Description": "Know what you must do each night to progress safely",
+        "step3Title": "Pick a Starting Route",
+        "step3Description": "Use a repeatable inspection path so changes are easy to notice"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guide Articles"
+    },
     "walkthrough": {
       "title": "Home Alone Anomaly Walkthrough",
       "description": "Complete step-by-step walkthrough for surviving every visitor and anomaly from the start of the night to the final scene.",
@@ -659,25 +686,25 @@
       "featured": "Featured & Essential",
       "all": "All Visitor Guides"
     },
-    "anomalies": {
-      "title": "Home Alone Anomaly Anomalies Guide",
-      "description": "Recognize visual, sound, and environmental anomalies inside the house and learn how to respond to each one.",
-      "metaTitle": "Home Alone Anomaly Anomalies Guide - Clues & Warnings",
-      "metaDescription": "Identify every anomaly type in Home Alone Anomaly, from unexpected figures to lighting changes, and learn the safest response to each warning sign.",
-      "categoryLabel": "ANOMALIES",
-      "whatIs": "What are anomalies?",
-      "whatIsDescription": "Unusual events and changes inside or around the house in Home Alone Anomaly that signal a dangerous visitor or threat may be near.",
-      "why": "Why track anomalies?",
+    "survival": {
+      "title": "Home Alone Anomaly Survival Tips",
+      "description": "Practical checks and habits that help you inspect visitors, notice changes, and survive the night more consistently.",
+      "metaTitle": "Home Alone Anomaly Survival Tips - Survive Every Night",
+      "metaDescription": "Use these Home Alone Anomaly survival tips to inspect visitors, catch environmental changes, and avoid preventable deaths throughout the night.",
+      "categoryLabel": "SURVIVAL",
+      "whatIs": "What are the survival tips?",
+      "whatIsDescription": "A collection of practical survival habits for Home Alone Anomaly that make visitor inspections and anomaly detection more reliable.",
+      "why": "Why use survival tips?",
       "whySteps": {
-        "step1Title": "Notice Changes Early",
-        "step1Description": "Compare each room with its normal state",
-        "step2Title": "Read the Warnings",
-        "step2Description": "Connect anomalies to nearby threats",
-        "step3Title": "Respond Safely",
-        "step3Description": "Avoid interacting with clearly abnormal events"
+        "step1Title": "Inspect Reliably",
+        "step1Description": "Build a repeatable visitor inspection routine",
+        "step2Title": "Catch Changes",
+        "step2Description": "Notice environmental shifts between encounters",
+        "step3Title": "Avoid Common Mistakes",
+        "step3Description": "Stop the choices that cause preventable deaths"
       },
       "featured": "Featured & Essential",
-      "all": "All Anomaly Guides"
+      "all": "All Survival Guides"
     },
     "endings": {
       "title": "Home Alone Anomaly Endings Guide",
@@ -699,45 +726,25 @@
       "featured": "Featured & Essential",
       "all": "All Endings Guides"
     },
-    "survival": {
-      "title": "Home Alone Anomaly Survival Tips",
-      "description": "Practical checks and habits that help you inspect visitors, notice changes, and survive the night more consistently.",
-      "metaTitle": "Home Alone Anomaly Survival Tips - Survive Every Night",
-      "metaDescription": "Use these Home Alone Anomaly survival tips to inspect visitors, catch environmental changes, and avoid preventable deaths throughout the night.",
-      "categoryLabel": "SURVIVAL",
-      "whatIs": "What are the survival tips?",
-      "whatIsDescription": "A collection of practical survival habits for Home Alone Anomaly that make visitor inspections and anomaly detection more reliable.",
-      "why": "Why use survival tips?",
+    "mechanics": {
+      "title": "Home Alone Anomaly Mechanics",
+      "description": "Master the controls, dialogue choices, visitor system, and house anomalies that drive every encounter in Home Alone Anomaly.",
+      "metaTitle": "Home Alone Anomaly Mechanics - Controls, Dialogue & Anomalies",
+      "metaDescription": "Learn the core mechanics of Home Alone Anomaly, including controls, dialogue choices, the visitor system, environmental changes, and house anomalies.",
+      "categoryLabel": "MECHANICS",
+      "whatIs": "What are the mechanics?",
+      "whatIsDescription": "The underlying systems of Home Alone Anomaly, including movement and inspection controls, dialogue choices, the visitor encounter system, and the house anomalies that warn of danger.",
+      "why": "Why learn the mechanics?",
       "whySteps": {
-        "step1Title": "Inspect Reliably",
-        "step1Description": "Build a repeatable visitor inspection routine",
-        "step2Title": "Catch Changes",
-        "step2Description": "Notice environmental shifts between encounters",
-        "step3Title": "Avoid Common Mistakes",
-        "step3Description": "Stop the choices that cause preventable deaths"
+        "step1Title": "Master the Controls",
+        "step1Description": "Move, look, and interact efficiently during every encounter",
+        "step2Title": "Understand Dialogue Choices",
+        "step2Description": "Read every option carefully and judge each visitor's story",
+        "step3Title": "Read House Anomalies",
+        "step3Description": "Recognize environmental changes that signal a nearby threat"
       },
       "featured": "Featured & Essential",
-      "all": "All Survival Guides"
-    },
-    "updates": {
-      "title": "Home Alone Anomaly Updates",
-      "description": "Track new visitor content, gameplay adjustments, fixes, and developer announcements for Home Alone Anomaly.",
-      "metaTitle": "Home Alone Anomaly Updates - Patch Notes & News",
-      "metaDescription": "Follow the latest Home Alone Anomaly updates including new visitors, behavior changes, environment adjustments, fixes, and developer announcements.",
-      "categoryLabel": "UPDATES",
-      "whatIs": "What are the updates?",
-      "whatIsDescription": "Ongoing changes to Home Alone Anomaly, including new visitor content, balance adjustments, bug fixes, and developer announcements.",
-      "why": "Why follow updates?",
-      "whySteps": {
-        "step1Title": "Adapt to New Visitors",
-        "step1Description": "Adjust inspection methods for added encounters",
-        "step2Title": "Notice Behavior Changes",
-        "step2Description": "Reconsider decisions affected by balance updates",
-        "step3Title": "Stay Informed",
-        "step3Description": "Check developer announcements before a new run"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Updates"
+      "all": "All Mechanics Guides"
     }
   }
 }

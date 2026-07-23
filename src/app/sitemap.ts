@@ -9,26 +9,22 @@ const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.home-alone-ano
 
 // 内容类型优先级配置
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'guide': 0.9,
+	'walkthrough': 0.9,
+	'visitors': 0.8,
+	'survival': 0.8,
+	'endings': 0.8,
+	'mechanics': 0.7,
 }
 
 // 内容更新频率配置
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
-	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'guide': 'weekly',
+	'walkthrough': 'weekly',
+	'visitors': 'weekly',
+	'survival': 'weekly',
+	'endings': 'weekly',
+	'mechanics': 'monthly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

@@ -1,1 +1,160 @@
-{}
+{
+  "en": {
+    "endings": [
+      {
+        "slug": "home-alone-anomaly-all-endings",
+        "file": "home-alone-anomaly-all-endings"
+      },
+      {
+        "slug": "home-alone-anomaly-bad-ending",
+        "file": "home-alone-anomaly-bad-ending"
+      },
+      {
+        "slug": "home-alone-anomaly-ending-requirements",
+        "file": "home-alone-anomaly-ending-requirements"
+      },
+      {
+        "slug": "home-alone-anomaly-good-ending",
+        "file": "home-alone-anomaly-good-ending"
+      },
+      {
+        "slug": "home-alone-anomaly-plumber-ending",
+        "file": "home-alone-anomaly-plumber-ending"
+      },
+      {
+        "slug": "home-alone-anomaly-secret-ending",
+        "file": "home-alone-anomaly-secret-ending"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "home-alone-anomaly-beginner-guide",
+        "file": "home-alone-anomaly-beginner-guide"
+      },
+      {
+        "slug": "home-alone-anomaly-guide",
+        "file": "home-alone-anomaly-guide"
+      },
+      {
+        "slug": "home-alone-anomaly-house-layout",
+        "file": "home-alone-anomaly-house-layout"
+      },
+      {
+        "slug": "home-alone-anomaly-how-to-play",
+        "file": "home-alone-anomaly-how-to-play"
+      },
+      {
+        "slug": "home-alone-anomaly-objective",
+        "file": "home-alone-anomaly-objective"
+      },
+      {
+        "slug": "home-alone-anomaly-starting-route",
+        "file": "home-alone-anomaly-starting-route"
+      }
+    ],
+    "mechanics": [
+      {
+        "slug": "home-alone-anomaly-controls",
+        "file": "home-alone-anomaly-controls"
+      },
+      {
+        "slug": "home-alone-anomaly-dialogue-choices",
+        "file": "home-alone-anomaly-dialogue-choices"
+      },
+      {
+        "slug": "home-alone-anomaly-environmental-changes",
+        "file": "home-alone-anomaly-environmental-changes"
+      },
+      {
+        "slug": "home-alone-anomaly-house-anomalies",
+        "file": "home-alone-anomaly-house-anomalies"
+      },
+      {
+        "slug": "home-alone-anomaly-mechanics",
+        "file": "home-alone-anomaly-mechanics"
+      },
+      {
+        "slug": "home-alone-anomaly-visitor-system",
+        "file": "home-alone-anomaly-visitor-system"
+      }
+    ],
+    "survival": [
+      {
+        "slug": "home-alone-anomaly-beginner-mistakes",
+        "file": "home-alone-anomaly-beginner-mistakes"
+      },
+      {
+        "slug": "home-alone-anomaly-easy-survival-route",
+        "file": "home-alone-anomaly-easy-survival-route"
+      },
+      {
+        "slug": "home-alone-anomaly-fast-night-strategy",
+        "file": "home-alone-anomaly-fast-night-strategy"
+      },
+      {
+        "slug": "home-alone-anomaly-jumpscare-avoidance",
+        "file": "home-alone-anomaly-jumpscare-avoidance"
+      },
+      {
+        "slug": "home-alone-anomaly-survival-tips",
+        "file": "home-alone-anomaly-survival-tips"
+      },
+      {
+        "slug": "home-alone-anomaly-survive-the-night",
+        "file": "home-alone-anomaly-survive-the-night"
+      }
+    ],
+    "visitors": [
+      {
+        "slug": "home-alone-anomaly-door-inspection",
+        "file": "home-alone-anomaly-door-inspection"
+      },
+      {
+        "slug": "home-alone-anomaly-identification",
+        "file": "home-alone-anomaly-identification"
+      },
+      {
+        "slug": "home-alone-anomaly-plumber-visitor",
+        "file": "home-alone-anomaly-plumber-visitor"
+      },
+      {
+        "slug": "home-alone-anomaly-trustworthy-visitors",
+        "file": "home-alone-anomaly-trustworthy-visitors"
+      },
+      {
+        "slug": "home-alone-anomaly-visitor-decisions",
+        "file": "home-alone-anomaly-visitor-decisions"
+      },
+      {
+        "slug": "home-alone-anomaly-visitor-list",
+        "file": "home-alone-anomaly-visitor-list"
+      },
+      {
+        "slug": "home-alone-anomaly-visitors-guide",
+        "file": "home-alone-anomaly-visitors-guide"
+      },
+      {
+        "slug": "home-alone-anomaly-who-to-let-in",
+        "file": "home-alone-anomaly-who-to-let-in"
+      }
+    ],
+    "walkthrough": [
+      {
+        "slug": "home-alone-anomaly-first-playthrough",
+        "file": "home-alone-anomaly-first-playthrough"
+      },
+      {
+        "slug": "home-alone-anomaly-no-commentary-walkthrough",
+        "file": "home-alone-anomaly-no-commentary-walkthrough"
+      },
+      {
+        "slug": "home-alone-anomaly-part-1-walkthrough",
+        "file": "home-alone-anomaly-part-1-walkthrough"
+      },
+      {
+        "slug": "home-alone-anomaly-walkthrough",
+        "file": "home-alone-anomaly-walkthrough"
+      }
+    ]
+  }
+}

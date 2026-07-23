@@ -1,46 +1,69 @@
 {
   "categories": [
     {
-      "category": "Guides",
+      "category": "guide",
       "keywords": [
-        "lucid blocks guide"
+        "home alone anomaly guide",
+        "home alone anomaly beginner guide",
+        "home alone anomaly how to play",
+        "home alone anomaly objective",
+        "home alone anomaly house layout",
+        "home alone anomaly starting route"
       ]
     },
     {
-      "category": "Crafting",
+      "category": "walkthrough",
       "keywords": [
-        "lucid blocks crafting recipes",
-        "lucid blocks apotheosis"
+        "home alone anomaly walkthrough",
+        "home alone anomaly no commentary walkthrough",
+        "home alone anomaly first playthrough",
+        "home alone anomaly part 1 walkthrough"
       ]
     },
     {
-      "category": "Items",
+      "category": "visitors",
       "keywords": [
-        "lucid blocks faith wand",
-        "lucid blocks bee glider",
-        "lucid blocks chest",
-        "lucid blocks osmium"
+        "home alone anomaly visitors guide",
+        "home alone anomaly visitor list",
+        "home alone anomaly visitor decisions",
+        "home alone anomaly trustworthy visitors",
+        "home alone anomaly who to let in",
+        "home alone anomaly door inspection",
+        "home alone anomaly identification",
+        "home alone anomaly plumber visitor"
       ]
     },
     {
-      "category": "Biomes",
+      "category": "survival",
       "keywords": [
-        "lucid blocks tiamana leyline"
+        "home alone anomaly survival tips",
+        "home alone anomaly survive the night",
+        "home alone anomaly easy survival route",
+        "home alone anomaly fast night strategy",
+        "home alone anomaly beginner mistakes",
+        "home alone anomaly jumpscare avoidance"
       ]
     },
     {
-      "category": "Building",
+      "category": "endings",
       "keywords": [
-        "lucid blocks qualia"
+        "home alone anomaly all endings",
+        "home alone anomaly good ending",
+        "home alone anomaly bad ending",
+        "home alone anomaly plumber ending",
+        "home alone anomaly secret ending",
+        "home alone anomaly ending requirements"
       ]
     },
     {
-      "category": "Support",
+      "category": "mechanics",
       "keywords": [
-        "lucid blocks steam deck",
-        "lucid blocks full screen",
-        "lucid blocks multiplayer",
-        "lucid blocks android"
+        "home alone anomaly controls",
+        "home alone anomaly mechanics",
+        "home alone anomaly dialogue choices",
+        "home alone anomaly visitor system",
+        "home alone anomaly environmental changes",
+        "home alone anomaly house anomalies"
       ]
     }
   ]
