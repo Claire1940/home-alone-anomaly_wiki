@@ -1,1 +1,750 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki Home Alone Anomaly - Pemantauan, Pengunjung & Akhiran",
+      "description": "Kenali pemantauan Home Alone Anomaly, pilihan pengunjung, tanda anomali, akhiran, tips bertahan hidup, rahasia, dan pembaruan permainan Roblox terbaru.",
+      "keywords": "Home Alone Anomaly, Roblox, pemantauan, pengunjung, anomali, akhiran, bertahan hidup, horor",
+      "ogTitle": "Wiki Home Alone Anomaly - Pemantauan, Pengunjung & Akhiran",
+      "ogDescription": "Kenali pemantauan Home Alone Anomaly, pilihan pengunjung, tanda anomali, akhiran, tips bertahan hidup, rahasia, dan pembaruan permainan Roblox terbaru.",
+      "twitterTitle": "Wiki Home Alone Anomaly - Pemantauan, Pengunjung & Akhiran",
+      "twitterDescription": "Kenali pemantauan Home Alone Anomaly, pengunjung, anomali, akhiran, dan tips bertahan hidup untuk permainan horor pintu depan Roblox."
+    }
+  },
+  "nav": {
+    "guide": "Panduan",
+    "walkthrough": "Pemantauan",
+    "visitors": "Pengunjung",
+    "survival": "Bertahan Hidup",
+    "endings": "Akhiran",
+    "mechanics": "Mecanika"
+  },
+  "common": {
+    "home": "Rumah",
+    "more": "Lebih",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Cerah",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Lebih",
+    "articlesComingSoon": "Artikel datang segera"
+  },
+  "hero": {
+    "badge": "Pertahanan Anomali Pintu Depan Horor",
+    "title": "Wiki Home Alone Anomaly",
+    "description": "Pemeriksaan pengunjung yang tak diharapkan, identifikasi anomali yang mencurigakan, tentukan siapa yang dapat dipercaya, dan bertahan malam ini dalam pengalaman horor Roblox.",
+    "getFreeCodesCTA": "Lihat Pemantauan",
+    "playOnRobloxCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "539",
+        "label": "Pemain Online"
+      },
+      "stat2": {
+        "value": "92%",
+        "label": "Rating Persetujuan"
+      },
+      "stat3": {
+        "value": "6.9K+",
+        "label": "Favorit"
+      },
+      "stat4": {
+        "value": "1",
+        "label": "Malam Bertahan Hidup"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay Home Alone Anomaly",
+    "description": "Pemeriksaan pengunjung yang tak diharapkan, identifikasi anomali yang berbahaya, dan bertahan malam yang menakutkan dalam pengalaman horor pintu depan Roblox."
+  },
+  "tools": {
+    "title": "Home Alone Anomaly",
+    "titleHighlight": "Panduan",
+    "subtitle": "Semua yang Anda butuhkan untuk memeriksa pengunjung, melihat anomali, dan bertahan malam di Home Alone Anomaly.",
+    "cards": [
+      {
+        "icon": "BukuTerbuka",
+        "title": "Pemantauan Home Alone Anomaly",
+        "description": "Jalur pemantauan bertahap penuh malam bertahan hidup"
+      },
+      {
+        "icon": "Pengguna",
+        "title": "Panduan Pengunjung Home Alone Anomaly",
+        "description": "Hakimi pengunjung pintu depan sebelum membuka"
+      },
+      {
+        "icon": "mata",
+        "title": "Panduan Anomali Home Alone Anomaly",
+        "description": "Temukan peringatan visual, suara, dan lingkungan"
+      },
+      {
+        "icon": "Bintang",
+        "title": "Panduan Akhiran Home Alone Anomaly",
+        "description": "Menempuh pertunjukan akhir dan menghindari kegagalan awal"
+      },
+      {
+        "icon": "Kecantikan",
+        "title": "Panduan Awal Home Alone Anomaly",
+        "description": "Tata letak rumah, putar pengunjung, dan langkah pertama"
+      },
+      {
+        "icon": "Pelindung",
+        "title": "Tips Bertahan Hidup Home Alone Anomaly",
+        "description": "Pemeriksaan praktis untuk bertahan dengan konsisten"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Pengaturan dan Mekanik Home Alone Anomaly",
+        "description": "Gerakan, pemeriksaan, dialog, dan pilihan"
+      },
+      {
+        "icon": "Jam",
+        "title": "Pembaruan Home Alone Anomaly",
+        "description": "Pengunjung baru, perbaikan, dan berita pengembang"
+      }
+    ]
+  },
+  "modules": {
+    "walkthrough": {
+      "eyebrow": "Jalur Penuh",
+      "title": "Jalur Home Alone Anomaly",
+      "subtitle": "Ikuti urutan penuh pemeriksaan, pertemuan pengunjung, dan keputusan bertahan hidup. Setiap langkah menjelaskan apa yang harus dicek sebelum melanjutkan.",
+      "steps": [
+        {
+          "title": "Belajar Tata Letak Rumah Normal",
+          "description": "Sebelum peristiwa berbahaya dimulai, pemeriksaan ruangan, pintu, jendela, perabotan, dan hiasan. Ingatkan tata letak normal membuat perubahan visual nanti mudah dikenali.",
+          "survivalTip": "Jangan terburu-larikan bagian pembuka, karena detil lingkungan kecil ini akan penting nanti."
+        },
+        {
+          "title": "Mulai Rutin Malam",
+          "description": "Bergerak di dalam rumah dan lakukan interaksi yang tersedia sambil mendengar gembok pintu, gerakan, dan tanda audio lainnya. Kembali ke area utama secara rutin daripada tinggal di ruangan tunggal.",
+          "survivalTip": "Tetapkan jalur pemeriksaan yang dapat diulang sehingga Anda dapat mengetahui apa yang berubah antara pemeriksaan."
+        },
+        {
+          "title": "Pemeriksaan Setiap Pengunjung dengan Kritis",
+          "description": "Ketika seseorang muncul di pintu, lihat penampilannya dan baca semua dialog sebelum memutuskan. Cari perilaku yang tidak alamiah, pernyataan yang tidak konsisten, atau detil yang tidak cocok dengan situasi.",
+          "survivalTip": "Pengunjung yang kelihatan kenal masih harus dianggap mencurigakan ketika perilakunya terasa salah."
+        },
+        {
+          "title": "Pemeriksaan Rumah Setelah Setiap Pertemuan",
+          "description": "Setelah menghadapi pengunjung, pemeriksaan interior lagi. Anomali dapat muncul sebagai objek yang berubah, bentuk yang aneh, pencahayaan yang diubah, atau gerakan yang tak diharapkan.",
+          "survivalTip": "Bandingkan ruangan saat ini dengan apa yang dilihat selama pemeriksaan pembuka."
+        },
+        {
+          "title": "Hindari Interaksi Berbahaya",
+          "description": "Jangan mendekati wajah mencurigakan atau berinteraksi dengan peristiwa yang jelas aneh kecuali permainan memerlukan itu. Buat jarak dan gunakan tanggapan yang paling aman saat pertemuan menjadi berbahaya.",
+          "survivalTip": "Kecurigaan dapat memicu kegagalan awal, jadi bertahan hidup harus diutamakan atas penelusuran."
+        },
+        {
+          "title": "Lanjutkan Sirkulasi Pengamatan",
+          "description": "Ulangi proses pemeriksaan pintu, reviual dialog, dan pemeriksaan rumah seiring berjalannya malam. Pertemuan nanti memerlukan perhatian yang lebih dekat karena tanda peringatan dapat menjadi kurang jelas.",
+          "survivalTip": "Ulangi pemeriksaan jendela, gang, dan ruangan yang tampak normal selama siklus sebelumnya."
+        },
+        {
+          "title": "Tangani Pertemuan Final",
+          "description": "Hampir akhir malam, gunakan segala yang telah dipelajari dari pengunjung dan anomali sebelumnya. Tolak pilihan yang jelas tidak aman dan hindari risiko yang tidak perlu sebelum urutan akhir dimulai.",
+          "survivalTip": "Keputusan yang ceroboh di akhir perjalanan dapat mengakhiri permainan sebelum babak akhir."
+        },
+        {
+          "title": "Menjangkau Babak Akhir",
+          "description": "Bertahan Hidup dalam Urutan yang Tersisa",
+          "survivalTip": "Tetap fokus sampai kontrol sepenuhnya dihapus atau urutan akhir jelas dimulai."
+        }
+      ]
+    },
+    "visitorsGuide": {
+      "eyebrow": "Keputusan Pengunjung",
+      "title": "Panduan Pengunjung Home Alone Anomaly",
+      "subtitle": "Gunakan penampilan, dialog, dan perilaku untuk menentukan apakah pengunjung aman. Jangan tergantung hanya pada wajah yang kenal.",
+      "cards": [
+        {
+          "icon": "Pengguna",
+          "title": "Pengunjung yang Kelihatan Normal",
+          "description": "Pengunjung dapat kelihatan biasa dan berbicara dengan tenang tanpa menunjukkan anomali visual yang langsung.",
+          "warningSigns": "Penerangan mereka masih dapat vaguenya, tidak konsisten, atau tidak relevan dengan alasan mereka datang ke rumah.",
+          "recommendedAction": "Baca setiap baris dialog dan hanya melanjutkan saat penampilan dan cerita mereka tetap konsisten."
+        },
+        {
+          "icon": "MessageCircle",
+          "title": "Pengunjung yang Kelihatan Kenal",
+          "description": "Beberapa pengunjung dapat kelihatan kenal atau mencoba memperoleh kepercayaan melalui kenalan.",
+          "warningSigns": "Ekspresi yang tidak alamiah, penulisan yang aneh, waktu yang tidak biasa, atau perilaku yang tidak cocok dengan orang yang mereka mirip.",
+          "recommendedAction": "Hukum pengunjung berdasarkan bukti saat ini daripada pengenalan dan tolak masuk saat detil tidak cocok."
+        },
+        {
+          "icon": "AlertTriangle",
+          "title": "Pengunjung dengan Fitur Anomali",
+          "description": "Pengunjung yang berbahaya dapat menunjukkan detil wajah yang cacat, proporsi yang tidak alamiah, atau anomali yang terlihat lainnya.",
+          "warningSigns": "mata, mulut, postur, gerakan, atau bentuk tubuh tampak dengan jelas salah.",
+          "recommendedAction": "Jangan membiarkan pengunjung masuk dan hindari interaksi yang berpanjangan setelah mengenali anomali."
+        },
+        {
+          "icon": "Shield",
+          "title": "Pengunjung yang Agresif",
+          "description": "Pengunjung yang tidak aman dapat menekan pemain, menjadi ancaman, atau meminta tanggapan segera.",
+          "warningSigns": "Bahasa yang bermusuhan, permintaan yang terus-menerus, perubahan suara yang mendadak, atau upaya untuk mencegah pemeriksaan yang hati-hati.",
+          "recommendedAction": "Jangan merespon tekanan dengan membuka pintu; pilih opsi yang mempertahankan keamanan rumah."
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Pengunjung dengan Cerita yang Tidak Konsisten",
+          "description": "Pengunjung memberikan alasan untuk datang, tetapi bagian dari penjelasan bertentangan dengan perilakunya atau situasi. ---",
+          "warningSigns": "Dialog kontradiktif, kekurangan detil, atau pernyataan yang berubah selama percakapan.",
+          "recommendedAction": "Tertangani kontradiksi sebagai tanda bahaya dan tolak akses."
+        },
+        {
+          "icon": "mata",
+          "title": "Tamu Tertidur atau Tidak Menanggapi",
+          "description": "Seseorang dapat tetap diam dengan yang aneh atau gagal menanggapi normal selama interaksi pintu.",
+          "warningSigns": "Jeda yang lama, mata yang tetap, dialog terbatas, atau tidak ada penjelasan yang dapat dipercaya untuk hadirnya.",
+          "recommendedAction": "Tetap tutup pintu dan akhiri pertemuan tanpa mendekati lebih jauh."
+        },
+        {
+          "icon": "jam",
+          "title": "Tamu Tampil Pada Waktu yang Aneh",
+          "description": "Tamu dapat datang saat kehadirannya tidak sesuai dengan titik saat ini malam.",
+          "warningSigns": "Waktu tampilnya tak tergambarkan, tamu bertindak seperti situasi normal, atau alasan datangnya lemah.",
+          "recommendedAction": "Gunakan waktu tiba sebagai petunjuk tambahan dan tolak tamu saat bertentangan dengan ceritanya."
+        },
+        {
+          "icon": "Panah Kanan",
+          "title": "Tamu Dibawahi Perubahan Rumah",
+          "description": "Bahaya dapat menjadi jelas hanya setelah percakapan berakhir dan pemain kembali ke dalam.",
+          "warningSigns": "Suara yang baru, ruangan yang diubah, bentuk yang aneh, pencahayaan yang berubah, atau objek yang sebelumnya tidak ada.",
+          "recommendedAction": "Pemeriksaan rumah segera setelah setiap pertemuan dan tanggapi setiap anomali baru sebelum melanjutkan."
+        }
+      ]
+    },
+    "anomaliesGuide": {
+      "eyebrow": "Deteksi Anomali",
+      "title": "Panduan Anomali Home Alone Anomaly",
+      "subtitle": "Bandingkan setiap ruangan dengan keadaan normalnya dan tanggapi saat orang, objek, pencahayaan, atau suara berubah dengan tak terduga.",
+      "cards": [
+        {
+          "icon": "mata",
+          "title": "Bentuk yang Tidak Duga",
+          "location": "Koridor, ruangan, jendela, atau area yang dapat dilihat lainnya",
+          "description": "Seorang atau bentuk yang mirip manusia muncul di tempat yang sebelumnya kosong.",
+          "warningSigns": "Bentuk itu tetap diam, memantau pemain, muncul dengan tak terduga, atau memiliki ciri yang tak alamiah.",
+          "recommendedAction": "Jangan mendekati secara tak perlu dan ikuti jalur yang paling aman untuk jauh dari area itu."
+        },
+        {
+          "icon": "Paket",
+          "title": "Perubahan Furniture atau Objek",
+          "location": "Area tinggal dan ruangan yang mengandung objek yang dapat diakui",
+          "description": "Furniture, hiasan, atau objek rumah yang muncul dipindahkan, digantikan, hilang, atau berubah secara visual.",
+          "warningSigns": "Objek tidak lagi cocok dengan posisinya asli, bentuk, jumlah, atau penampilannya.",
+          "recommendedAction": "Tertangani perubahan ini sebagai anomali aktif dan hindari berinteraksi dengannya kecuali kemajuan memerlukan."
+        },
+        {
+          "icon": "Tanduk Peringatan",
+          "title": "Wajah atau Tubuh Anomali",
+          "location": "Pertemuan pintu dan penampilan karakter dekat",
+          "description": "Seorang karakter menunjukkan detil wajah atau fisik yang tak terlihat manusia atau konsisten.",
+          "warningSigns": "mata yang diseruput, mulut, ekstremitas, postur, proporsi, atau ekspresi.",
+          "recommendedAction": "Tolak tamu atau jauhkan diri dari karakter segera."
+        },
+        {
+          "icon": "Bintik-bintik berkilau",
+          "title": "Perubahan Pencahayaan",
+          "location": "Setiap ruangan atau koridor",
+          "description": "Kecerahan, warna, atau perilaku cahaya berubah tanpa alasan yang normal.",
+          "warningSigns": "Kecenderungan kegelapan, giliran, pencahayaan yang tak seimbang, atau ruangan yang berbeda dari pemeriksaan sebelumnya.",
+          "recommendedAction": "Pemeriksaan area dari jarak yang aman dan cek ruangan di dekatnya untuk perubahan tambahan."
+        },
+        {
+          "icon": "Rumah",
+          "title": "Anomali Jendela",
+          "location": "Jendela yang dapat dilihat dari dalam rumah",
+          "description": "Bentuk, gerakan, atau detil visual muncul di luar atau langsung melawan jendela.",
+          "warningSigns": "Wajah, siluet, gerakan yang tak tergambarkan, atau objek yang muncul di tempat yang sebelumnya tak terlihat.",
+          "recommendedAction": "Jangan bergerak langsung ke jendela dan tinggalkan kewaspadaan untuk pertemuan yang berhubungan di dalam."
+        },
+        {
+          "icon": "Pengaturan",
+          "title": "Anomali Pintu",
+          "location": "Pintu depan dan pintu dalam",
+          "description": "Pintu bertindak berbeda, mengungkap hal yang aneh, atau terhubung dengan peristiwa tamu yang mencurigakan.",
+          "warningSigns": "Pembukaan yang tak terduga, gembok yang terulang, suara yang aneh, atau bentuk yang berbahaya yang terlihat dekat.",
+          "recommendedAction": "Tetapkan pintu masuk aman dan pemeriksaan sebelum memilih interaksi apapun."
+        },
+        {
+          "icon": "Balok Pesan",
+          "title": "Suara yang Tak Duga",
+          "location": "Seluruh rumah",
+          "description": "Kaki, gembok, gerakan, atau suara lain yang terjadi tanpa sumber yang dapat dilihat. ---",
+          "warningSigns": "Suara terulang, berpindah antar ruangan, atau mulai segera setelah pertemuan pengunjung.",
+          "recommendedAction": "Periksa area di dekatnya dengan seksama tanpa berlari menuju sumbernya."
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Lingkungan Tidak Jadi Sama Anymore",
+          "location": "Ruangan yang sebelumnya diinspeksi",
+          "description": "Beberapa detil di ruangan berubah bersamaan, membuat ruangan terasa berbeda jauh dari keadaannya asli.",
+          "warningSigns": "Objek, pencahayaan, wajah, atau detil ruangan yang berubah muncul selama pemeriksaan yang sama.",
+          "recommendedAction": "Tinggalkan area, avoid interaksi mencurigakan, dan lanjutkan hanya setelah mengidentifikasi jalur aman."
+        }
+      ]
+    },
+    "endingsGuide": {
+      "eyebrow": "Akhir dan Keadaan Gagal",
+      "title": "Panduan Akhir Home Alone Anomaly",
+      "subtitle": "Hasil akhir tergantung pada bertahan hidup dalam pertemuan pengunjung dan merespon anomali yang berbahaya dengan benar.",
+      "items": [
+        {
+          "heading": "Bagaimana cara mencapai akhir utama di Home Alone Anomaly?",
+          "content": "Selesaikan rangkaian malam sambil mempertahankan rumah tetap aman, menangani pertemuan pengunjung dengan aman, dan bertahan hidup dalam setiap peristiwa anomali. Lanjutkan mengikuti siklus pemeriksaan sampai skenario terakhir dimulai."
+        },
+        {
+          "heading": "Apa yang terjadi jika Anda percaya pengunjung yang salah di Home Alone Anomaly?",
+          "content": "Memungkinkan pengunjung mencurigakan atau abnormal untuk mendapatkan akses dapat memicu pertemuan yang berbahaya dan mengakhiri lari sebelum skenario terakhir."
+        },
+        {
+          "heading": "Apakah seseorang yang kelihatan asing dapat berbahaya di Home Alone Anomaly?",
+          "content": "Ya. Kenalan tidak cukup untuk menetapkan bahwa pengunjung aman. Fitur yang tidak alamiah, dialog yang tidak konsisten, atau perilaku yang aneh seharusnya diutamakan atas penampilan pengunjung."
+        },
+        {
+          "heading": "Apa yang menyebabkan kegagalan awal di Home Alone Anomaly?",
+          "content": "Penyebab yang biasa termasuk membuka pintu untuk pengunjung yang tidak aman, mendekati wajah yang mengancam, mengabaikan perubahan lingkungan yang jelas, atau memilih interaksi yang berbahaya selama pertemuan."
+        },
+        {
+          "heading": "Mengapa Anda harus memeriksa rumah berulang kali di Home Alone Anomaly?",
+          "content": "Anomali baru dapat muncul setelah percakapan pengunjung dan peristiwa skenario lainnya. Memeriksa kembali ruangan yang sama memungkinkan pemain mendeteksi perubahan sebelum memasuki area yang berbahaya."
+        },
+        {
+          "heading": "Apa strategi pengunjung yang paling aman di Home Alone Anomaly?",
+          "content": "Tetap tutup pintu sampai penampilan, dialog, dan alasan pengunjung datang semua masuk akal. Tolak akses jika salah satu detil tersebut tampak mencurigakan atau kontradiktornya."
+        },
+        {
+          "heading": "Bagaimana cara bertahan hidup dalam rangkaian akhir di Home Alone Anomaly?",
+          "content": "Avoid eksporasi yang tidak perlu, tetap menjaga jarak dengan wajah mencurigakan, dan terus memilih tanggapan yang paling aman yang tersedia. Jangan asumsi bahwa bahaya sudah berakhir sampai skenario terakhir sepenuhnya dimulai."
+        },
+        {
+          "heading": "Apa yang harus Anda lakukan setelah lari gagal di Home Alone Anomaly?",
+          "content": "Ulangi malam sambil fokus pada pertemuan yang menyebabkan kegagalan. Ingat tata letak ruangan normal, perlahan-lahan saat dialog pengunjung, dan memeriksa rumah setelah setiap peristiwa besar."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Mulai Disini",
+      "title": "Panduan Awal Home Alone Anomaly",
+      "subtitle": "Belajar siklus bertahan hidup dasar, memeriksa rumah, dan menangani pengunjung tanpa memburu pilihan yang berbahaya.",
+      "steps": [
+        {
+          "title": "Belajar Tata Letak Rumah",
+          "description": "Jalan-jalan di ruangan yang dapat diakses sebelum fokus pada pengunjung. Ingat jalur antara area bermain utama dan pintu depan supaya Anda dapat menyelidiki perubahan tanpa terkeliru.",
+          "checklist": [
+            "Temukan pintu depan",
+            "Periksa ruangan yang dapat diakses",
+            "Ingat jalur kembali yang paling cepat"
+          ]
+        },
+        {
+          "title": "Memeriksa Lingkungan Mulai",
+          "description": "Lihat sekeliling rumah dan catat apa yang terlihat normal di awal malam. Ini memberikan referensi bagi Anda untuk mengenali objek, suara, atau detil ruangan yang berubah nanti.",
+          "checklist": [
+            "Periksa objek yang terlihat",
+            "Notasikan pencahayaan dan suara",
+            "Ingat hal yang aneh"
+          ]
+        },
+        {
+          "title": "Mendekati Pengunjung Dengan Kecermatan",
+          "description": "Kapanpun seseorang datang, jangan segera membiarkannya masuk. Pindah ke pintu, lihat pengunjung, dan tunggu interaksi atau dialog yang tersedia sebelum memutuskan.",
+          "checklist": [
+            "Lihat dahulu sebelum membuka",
+            "Baca semua dialog",
+            "Avoid keputusan instan"
+          ]
+        },
+        {
+          "title": "Cari Anomali",
+          "description": "Bandingkan penampilan, perilaku, dan pernyataan pengunjung dengan yang Anda lihat sebelumnya. Detil yang aneh atau informasi yang tidak konsisten dapat menandakan bahwa pertemuan itu berbahaya.",
+          "checklist": [
+            "Memeriksa detil wajah dan tubuh",
+            "Lihat perilaku yang aneh",
+            "Notasikan dialog yang tidak konsisten"
+          ]
+        },
+        {
+          "title": "Buat Keputusan Pintu",
+          "description": "Pilih untuk percaya atau menolak pengunjung hanya setelah menyelesaikan pemeriksaan Anda. Membiarkan orang yang salah masuk atau menolak pengunjung penting dapat mengubah hasil malam.",
+          "checklist": [
+            "Tinjau petunjuk yang terlihat",
+            "Berhati-hati dengan penjelasan pengunjung",
+            "Pilih dengan hati-hati"
+          ]
+        },
+        {
+          "title": "Ulangi Siklus Bertahan Hidup",
+          "description": "Setelah setiap pertemuan, cek rumah lagi dan siapkan untuk pengunjung berikutnya. Terus mengamati, membandingkan, dan memutuskan sampai siklus saat ini mencapai akhirnya.",
+          "checklist": [
+            "Ulangi ruangan di dekatnya",
+            "Lihat perubahan lingkungan",
+            "Siapkan untuk pertemuan berikutnya"
+          ]
+        }
+      ]
+    },
+    "survivalTips": {
+      "eyebrow": "Survival",
+      "title": "Tips Survival Home Alone Anomaly",
+      "subtitle": "Gunakan pemeriksaan praktis ini untuk mengidentifikasi pengunjung yang mencurigakan, perhatikan perubahan di dalam rumah, dan menghindari kematian yang dapat dicegah.",
+      "cards": [
+        {
+          "icon": "Jam",
+          "title": "Jangan Memutuskan Langsung",
+          "description": "Tunggu sampai Anda telah memeriksa pengunjung dan membaca percakapan penuh. Pilihan pintu yang terburu-buru dapat mengakhiri lomba sebelum tanda peringatan penting menjadi jelas.",
+          "priority": "Penting"
+        },
+        {
+          "icon": "mata",
+          "title": "Periksa Penampilan Pengunjung",
+          "description": "Lihat mendalam untuk ciri wajah yang aneh, detil tubuh, gerakan, atau ketidaksempadan visual lain sebelum membiarkan siapapun masuk ke rumah.",
+          "priority": "Penting"
+        },
+        {
+          "icon": "CirclePesan",
+          "title": "Baca Setiap Baris Dialog",
+          "description": "Dialog pengunjung dapat memberikan petunjuk tentang identitas, kehendak, atau kontradiksi. Melewatkan teks akan membuat pertemuannya yang mencurigakan lebih sulit untuk dihakimi.",
+          "priority": "Penting"
+        },
+        {
+          "icon": "Pengguna",
+          "title": "Bandingkan Pertemu yang Berulang",
+          "description": "Pengunjung yang familier tidak seharusnya diharapkan dapat dipercaya secara otomatis. Bandingkan penampilan dan perilakunya saat ini dengan pertemuannya sebelumnya karena perbedaan kecil dapat berarti.",
+          "priority": "Tinggi"
+        },
+        {
+          "icon": "Rumah",
+          "title": "Periksa Rumah Kembali",
+          "description": "Perubahan lingkungan dapat muncul antara pertemuannya pengunjung. Periksa ruangan dekat dan objek yang terlihat daripada tetap berada di pintu selama malam penuh.",
+          "priority": "Tinggi"
+        },
+        {
+          "icon": "AlertTriangle",
+          "title": "Gunakan Suara Sebagai Peringatan",
+          "description": "Perhatikan gong, gerakan, dan petunjuk audio lainnya. Suara yang tak terduga dapat menandai pengunjung baru atau perubahan di tempat lain di dalam rumah.",
+          "priority": "Tinggi"
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Ingat Petunjuk Sebelumnya",
+          "description": "Ikuti apa yang dikatakan pengunjung dan bagaimana rumah terlihat sebelumnya. Pilihan kemudian dapat menggantung atas mengenali kontradiksi atau anomali yang berulang.",
+          "priority": "Berguna"
+        },
+        {
+          "icon": "ArrowRight",
+          "title": "Tetap Dekat dengan jalur yang Jelas",
+          "description": "pelajari jalur terpendek antara ruangan utama dan pintu masuk. Bergerak dengan percaya diri di dalam rumah membuat pemeriksaan berulang lebih cepat dan aman.",
+          "priority": "Berguna"
+        }
+      ]
+    },
+    "controlsAndMechanics": {
+      "eyebrow": "Dasar Pertandingan",
+      "title": "Pengendali dan Mekanik Home Alone Anomaly",
+      "subtitle": "Memahami gerakan, interaksi, pemeriksaan pengunjung, keputusan dialog, dan siklus pertemu utama.",
+      "rows": [
+        {
+          "action": "Gerak",
+          "input": "WASD atau analog kiri",
+          "purpose": "Berjalan di dalam rumah dan mendekati area interaktif.",
+          "mechanic": "Gerakan digunakan untuk memeriksa ruangan, kembali ke pintu masuk, dan menyelidiki perubahan."
+        },
+        {
+          "action": "Lihat disekitar",
+          "input": "Gerakan mouse atau analog kanan",
+          "purpose": "Pemeriksaan pengunjung, objek, dan lingkungan sekeliling.",
+          "mechanic": "Pemeriksaan visual yang hati-hati membantu mengungkapkan detil yang mencurigakan dan anomali lingkungan."
+        },
+        {
+          "action": "Interaksi",
+          "input": "Ikuti tanda interaksi yang muncul di layar",
+          "purpose": "Gunakan pintu, pemeriksaan objek yang tersedia, dan mulai interaksi pengunjung.",
+          "mechanic": "Tanda interaksi muncul ketika pemain mendekati objek yang dapat digunakan atau titik pertemu."
+        },
+        {
+          "action": "Pemeriksaan Pintu",
+          "input": "Mendekati pintu masuk dan gunakan tanda yang tersedia",
+          "purpose": "Observasikan orang yang menunggu di luar sebelum membuat keputusan.",
+          "mechanic": "Pertemu pintu adalah titik penting tempat informasi pengunjung dan petunjuk visual disajikan."
+        },
+        {
+          "action": "Melanjutkan Dialog",
+          "input": "Pilih atau konfirmasi opsi dialog yang ditampilkan",
+          "purpose": "Lanjutkan percakapan dan mengungkapkan informasi tambahan.",
+          "mechanic": "Dialog dapat mengandung petunjuk, kontradiksi, dan informasi yang diperlukan untuk menghakimi pengunjung."
+        },
+        {
+          "action": "Pilih Tanggapan",
+          "input": "Pilih salah satu pilihan yang ditampilkan",
+          "purpose": "Tentukan bagaimana menghadapi pengunjung atau peristiwa saat ini.",
+          "mechanic": "Pilihan mempengaruhi apakah pengunjung diterima, ditolak, atau ditangani melalui tanggapan lain yang tersedia."
+        },
+        {
+          "action": "Periksa Lingkungan",
+          "input": "Berpindah antara ruangan dan periksa detil yang terlihat.",
+          "purpose": "Cari perubahan yang muncul setelah pertemuan.",
+          "mechanic": "Rumah dapat menyediakan tanda peringatan tambahan di luar pengunjung yang berdiri di pintu."
+        },
+        {
+          "action": "Lanjutkan Malam",
+          "input": "Selesaikan pertemuan saat ini.",
+          "purpose": "Pergi ke pengunjung atau peristiwa berikutnya.",
+          "mechanic": "Lintasan pemilihan bertahap melalui pemeriksaan, dialog, keputusan, dan pemeriksaan lingkungan."
+        }
+      ]
+    },
+    "updates": {
+      "eyebrow": "Pembaruan Game",
+      "title": "Pembaruan Home Alone Anomaly",
+      "subtitle": "Ikuti perubahan pengalaman, termasuk konten pengunjung, penyesuaian gameplay, pemadaman, dan pengumuman pengembang.",
+      "items": [
+        {
+          "title": "Konten Pengunjung Baru",
+          "summary": "Pertemuan pengunjung tambahan dapat memperkenalkan dialog baru, penampilan, dan hasil keputusan.",
+          "details": [
+            "Pengunjung baru mungkin memerlukan metode pemeriksaan yang berbeda.",
+            "Assumpsi yang ada mungkin tidak berlaku untuk pertemuan yang baru ditambahkan.",
+            "Dialog dan petunjuk visual harus diulas sebelum membuat keputusan."
+          ]
+        },
+        {
+          "title": "Perubahan Perilaku Pengunjung",
+          "summary": "Pembaruan dapat menyesuaikan bagaimana pengunjung yang ada tampil, berbicara, atau berreaksi selama pertemuan pintu.",
+          "details": [
+            "Petunjuk dialog dapat diubah atau diperluas.",
+            "Anomali visual dapat menjadi lebih mudah atau lebih sulit untuk dicatat.",
+            "Keputusan yang sebelumnya aman mungkin perlu untuk diulang pemeriksaan."
+          ]
+        },
+        {
+          "title": "Perubahan Rumah dan Lingkungan",
+          "summary": "Tata letak rumah, area interaktif, cahaya, suara, atau peristiwa lingkungan dapat disesuaikan.",
+          "details": [
+            "Petunjuk lingkungan baru dapat muncul antara pertemuan.",
+            "Detil ruangan yang ada dapat diubah.",
+            "Penyesuaian audio dan cahaya dapat mempengaruhi deteksi anomali."
+          ]
+        },
+        {
+          "title": "Penyesuaian Keseimbangan Gameplay",
+          "summary": "Perubahan keseimbangan dapat mempengaruhi waktu pertemuan, kesulitan keputusan, dan lintasan pemilihan secara keseluruhan.",
+          "details": [
+            "Urutan pengunjung dapat disesuaikan.",
+            "Waktu interaksi dapat diubah.",
+            "Jendela keputusan dapat menjadi lebih pendek atau panjang."
+          ]
+        },
+        {
+          "title": "Perbaikan Bug",
+          "summary": "Perbaikan mengatasi masalah dengan interaksi, dialog, peristiwa pengunjung, gerakan, atau kemajuan.",
+          "details": [
+            "Interaksi pintu dapat menerima pemadaman stabilitas.",
+            "Masalah kemajuan dialog atau pilihan dapat diperbaiki.",
+            "Peristiwa lingkungan dapat diaktifkan lebih konsisten."
+          ]
+        },
+        {
+          "title": "Perbaikan Antarmuka dan Pengendali",
+          "summary": "Pembaruan dapat meningkatkan promosi, visibilitas dialog, pengendali mobil, atau elemen antarmuka lainnya.",
+          "details": [
+            "Promosi interaksi dapat menjadi lebih jelas.",
+            "Perilaku input mobil dapat disesuaikan.",
+            "Presentasi dialog dapat diperbaiki."
+          ]
+        },
+        {
+          "title": "Pengumuman Pengembang",
+          "summary": "Komunitas pengembang dapat menerbitkan pemberitahuan tentang konten mendatang, pemeliharaan, dan perubahan besar.",
+          "details": [
+            "Periksa pengumuman sebelum memulai jalur pemanduan baru.",
+            "Reviu perubahan besar yang mempengaruhi keputusan pengunjung.",
+            "Cari pemberitahuan pemeliharaan atau gameplay sementara."
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "subtitle": "Semua informasi yang Anda perlu tahu tentang Home Alone Anomaly",
+    "questions": [
+      {
+        "question": "Apa itu Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly adalah permainan horror survival di pintu masuk Roblox tempat Anda memeriksa tamu, menemukan anomali, dan memutuskan siapa yang dapat dipercaya untuk bertahan selama malam."
+      },
+      {
+        "question": "Bagaimana saya dapat bertahan hidup di Home Alone Anomaly?",
+        "answer": "Pernikmati setiap tamu dengan seksama, baca semua dialog, bandingkan rumah dengan keadaannya normal, dan tetap tutup pintu kapan saja detil yang merasa salah."
+      },
+      {
+        "question": "Siapa yang harus saya percaya di Home Alone Anomaly?",
+        "answer": "Tangani setiap tamu seperti yang mencurigakan sampai penampilan, dialog, dan alasan datangnya tetap konsisten. Kepahaman sendiri tidak cukup untuk menetapkan bahwa tamu tersebut aman."
+      },
+      {
+        "question": "Apa itu anomali di Home Alone Anomaly?",
+        "answer": "Anomali adalah perubahan di dalam atau sekitar rumah, seperti penampakan yang tak diharapkan, objek yang dipindahkan, pergantian pencahayaan, atau suara yang tak dapat dijelaskan, yang mengingatkan bahwa kejadian berbahaya mungkin dekat."
+      },
+      {
+        "question": "Berapa banyak akhiran yang dimiliki Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly membangun menuju sebuah pertunjukan akhir yang terbuka saat Anda bertahan dari pertemuan tamu dan peristiwa anomali tanpa mengundang bahaya masuk."
+      },
+      {
+        "question": "Di mana saya dapat bermain Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly adalah pengalaman Roblox yang gratis yang dapat anda mainkan melalui halaman permainan resmi Roblox di setiap perangkat yang didukung."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk bertahan hidup di Home Alone Anomaly?",
+    "description": "Cek komunitas Roblox resmi untuk tips tamu, clue anomali, dan pembaruan game terbaru!",
+    "joinCommunity": "Kunjungi Komunitas",
+    "joinGame": "Bermain di Roblox"
+  },
+  "footer": {
+    "title": "Wiki Home Alone Anomaly",
+    "description": "Pusat sumber lengkap untuk pertunjukan Home Alone Anomaly, tamu, anomali, akhir, pilihan, dan tips bertahan hidup.",
+    "resources": "Sumber",
+    "community": "Komunitas",
+    "legal": "Legal",
+    "robloxCommunity": "Komunitas Roblox",
+    "robloxGame": "Game Roblox",
+    "walkthroughVideo": "Tonton Pertunjukan",
+    "youTubeSearch": "Pencarian YouTube",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Wiki Home Alone Anomaly. Tidak berhubungan dengan pengembang Home Alone Anomaly.",
+    "disclaimer": "Situs sumber penggemar yang tidak resmi."
+  },
+  "pages": {
+    "guide": {
+      "title": "Panduan Home Alone Anomaly",
+      "description": "Panduan pemula lengkap untuk Home Alone Anomaly: pelajari tata letak rumah, tujuan, jalur awal, dan cara bermain dari malam pertama Anda.",
+      "metaTitle": "Panduan Home Alone Anomaly - Cara Bermain & Tips Pemula",
+      "metaDescription": "Mulai kuat dengan panduan Home Alone Anomaly lengkap yang mencakup tata letak rumah, tujuan, jalur awal, dan langkah pemula untuk bertahan hidup malam pertama.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa yang dimaksud dengan panduan?",
+      "whatIsDescription": "Pengenalan lengkap Home Alone Anomaly yang menjelaskan tujuan, tata letak rumah, jalur awal, dan siklus utama pemeriksaan tamu dan bertahan hidup malam.",
+      "why": "Mengapa mulai dengan panduan?",
+      "whySteps": {
+        "step1Title": "Pelajari Tata Letak Rumah",
+        "step1Description": "Gambar ruangan, pintu, dan jalur kembali sebelum malam mulai.",
+        "step2Title": "Memahami Tujuan",
+        "step2Description": "Tahu apa yang harus Anda lakukan setiap malam untuk maju dengan aman.",
+        "step3Title": "Pilih Jalur Awal",
+        "step3Description": "Gunakan jalur pemeriksaan yang dapat diulang untuk membuat perubahan mudah terlihat."
+      },
+      "featured": "Berita Utama & Penting",
+      "all": "Semua Artikel Panduan"
+    },
+    "walkthrough": {
+      "title": "Pertunjukan Home Alone Anomaly",
+      "description": "Jalur pertunjukan lengkap untuk bertahan hidup dari tamu dan anomali dari awal malam hingga pertunjukan akhir.",
+      "metaTitle": "Pertunjukan Home Alone Anomaly - Jalur Bertahan Hidup Malam Penuh",
+      "metaDescription": "Ikuti pertunjukan Home Alone Anomaly lengkap yang mencakup pemeriksaan tamu, clue anomali, dan keputusan bertahan hidup yang diperlukan untuk mencapai pertunjukan akhir.",
+      "categoryLabel": "PERTUNJUKAN",
+      "whatIs": "Apa yang dimaksud dengan pertunjukan?",
+      "whatIsDescription": "Jalur kronologis penuh melalui Home Alone Anomaly yang menjelaskan setiap pemeriksaan, pertemuan tamu, dan keputusan bertahan hidup dalam urutan.",
+      "why": "Mengapa mengikuti pertunjukan?",
+      "whySteps": {
+        "step1Title": "Pelajari Urutan Pemeriksaan",
+        "step1Description": "Memahami ruangan dan detil yang harus dicek sebelum setiap pertemuan.",
+        "step2Title": "Tangani Tamu dengan Aman",
+        "step2Description": "Aplikasikan tanggapan yang benar untuk setiap jenis tamu.",
+        "step3Title": "Menjangkau Pertunjukan Akhir",
+        "step3Description": "hindari kesalahan yang mengakhiri pertunjukan awal."
+      },
+      "featured": "Berita Utama & Penting",
+      "all": "Semua Jalur Pertunjukan"
+    },
+    "visitors": {
+      "title": "Panduan Tamu Home Alone Anomaly",
+      "description": "Kenali setiap tamu pintu, baca tanda peringatan mereka, dan pelajari tanggapan paling aman untuk setiap pertemuan.",
+      "metaTitle": "Panduan Tamu Home Alone Anomaly - Siapa yang Dapat Dipercaya",
+      "metaDescription": "Belajar bagaimana untuk mengevaluasi setiap tamu di Home Alone Anomaly menggunakan penampilan, dialog, dan perilaku, dan menentukan siapa yang aman untuk memasuki rumah.",
+      "categoryLabel": "TAMU",
+      "whatIs": "Apa yang dimaksud dengan panduan tamu? ---",
+      "whatIsDescription": "Penilaian setiap jenis pengunjung di Home Alone Anomaly, termasuk tanda peringatan dan tanggapan yang disarankan di pintu.",
+      "why": "Mengapa mempelajari pengunjung?",
+      "whySteps": {
+        "step1Title": "Tandai Tanda Peringatan",
+        "step1Description": "Kenali fitur abnormal dan cerita yang tidak konsisten",
+        "step2Title": "hindari keputusan buruk",
+        "step2Description": "Hentikan percaya pengunjung hanya berdasarkan kenalan saja",
+        "step3Title": "Tetap konsisten",
+        "step3Description": "Terapkan metode pemeriksaan yang dapat diulang untuk setiap pertemuan"
+      },
+      "featured": "Berikut dan Penting",
+      "all": "Semua Panduan Pengunjung"
+    },
+    "survival": {
+      "title": "Tips Selamat Tinggal Sendiri Anomaly",
+      "description": "Pemeriksaan praktis dan kebiasaan yang membantu Anda memeriksa pengunjung, mengetahui perubahan, dan bertahan malam dengan konsisten.",
+      "metaTitle": "Tips Selamat Tinggal Sendiri Anomaly - Bertahan Malam Ini",
+      "metaDescription": "Gunakan tips selamat tinggal sendiri Anomaly ini untuk memeriksa pengunjung, menangkap perubahan lingkungan, dan menghindari kematian yang dapat dihindari selama malam.",
+      "categoryLabel": "PEMECAHAN",
+      "whatIs": "Apa tips pemecahan?",
+      "whatIsDescription": "Koleksi kebiasaan pemecahan praktis untuk Home Alone Anomaly yang membuat pemeriksaan pengunjung dan deteksi anomali lebih terpercaya.",
+      "why": "Mengapa menggunakan tips pemecahan?",
+      "whySteps": {
+        "step1Title": "Memeriksa dengan Terpercaya",
+        "step1Description": "Bangun routine pemeriksaan pengunjung yang dapat diulang",
+        "step2Title": "Tangkap Perubahan",
+        "step2Description": "Kenali pergeseran lingkungan antara pertemuan",
+        "step3Title": "Hindari Kesalahan Biasa",
+        "step3Description": "Hentikan pilihan yang menyebabkan kekalahan awal"
+      },
+      "featured": "Berikut dan Penting",
+      "all": "Semua Panduan Pemecahan"
+    },
+    "endings": {
+      "title": "Panduan Akhirnya Home Alone Anomaly",
+      "description": "Memahami pertunjukan akhir, keputusan yang mengarah ke sana, dan kesalahan yang mengakhiri lomba awal.",
+      "metaTitle": "Panduan Akhirnya Home Alone Anomaly - Menangkap Pertunjukan Akhir",
+      "metaDescription": "Belajar bagaimana mencapai pertunjukan akhir di Home Alone Anomaly dan menghindari pilihan biasa yang menyebabkan kekalahan awal.",
+      "categoryLabel": "AKHIR",
+      "whatIs": "Apa panduan akhirnya?",
+      "whatIsDescription": "Penjelasan tentang akhirnya di Home Alone Anomaly dan keputusan pemeliharaan yang menentukan apakah malam selesai.",
+      "why": "Mengapa membaca panduan akhirnya?",
+      "whySteps": {
+        "step1Title": "Menangkap Pertunjukan Akhir",
+        "step1Description": "Melengkapkan pertemuan yang diperlukan dengan aman",
+        "step2Title": "Hindari Kesalahan Awal",
+        "step2Description": "Lepas pilihan yang mengakhiri lomba awal",
+        "step3Title": "Tetap konsisten",
+        "step3Description": "Tetap melaksanakan tanggapan yang aman sampai akhir"
+      },
+      "featured": "Berikut dan Penting",
+      "all": "Semua Panduan Akhir"
+    },
+    "mechanics": {
+      "title": "Mekanika Home Alone Anomaly",
+      "description": "Memahami kontrol, pilihan dialog, sistem pengunjung, dan anomali rumah yang menggerakkan setiap pertemuan di Home Alone Anomaly.",
+      "metaTitle": "Mekanika Home Alone Anomaly - Kontrol, Dialog & Anomali",
+      "metaDescription": "Belajar mekanika inti Home Alone Anomaly, termasuk kontrol, pilihan dialog, sistem pengunjung, perubahan lingkungan, dan anomali rumah.",
+      "categoryLabel": "MEKANIKA",
+      "whatIs": "Apa mekanika?",
+      "whatIsDescription": "Sistem dasar Home Alone Anomaly, termasuk kontrol gerak dan pemeriksaan, pilihan dialog, sistem pertemuan pengunjung, dan anomali rumah yang memberi tanda bahaya.",
+      "why": "Mengapa memahami mekanika?",
+      "whySteps": {
+        "step1Title": "Memahami Kontrol",
+        "step1Description": "Bergerak, lihat, dan berinteraksi dengan efisien selama setiap pertemuan",
+        "step2Title": "Memahami Pilihan Dialog",
+        "step2Description": "Baca setiap opsi dengan seksama dan jadwalkan cerita setiap pengunjung",
+        "step3Title": "Baca Anomali Rumah",
+        "step3Description": "Kenali perubahan lingkungan yang menandai ancaman dekat"
+      },
+      "featured": "Berikut dan Penting",
+      "all": "Semua Panduan Mekanika"
+    }
+  }
+}

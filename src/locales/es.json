@@ -1,1 +1,750 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki de Home Alone Anomaly - Guía, Visitantes y Finales",
+      "description": "Explora la guía de Home Alone Anomaly, opciones de visitante, pistas de anomalía, finales, consejos de supervivencia, secretos y las últimas actualizaciones del juego Roblox.",
+      "keywords": "Home Alone Anomaly, Roblox, guía, visitantes, anomalías, finales, supervivencia, horror",
+      "ogTitle": "Wiki de Home Alone Anomaly - Guía, Visitantes y Finales",
+      "ogDescription": "Explora la guía de Home Alone Anomaly, opciones de visitante, pistas de anomalía, finales, consejos de supervivencia, secretos y las últimas actualizaciones del juego Roblox.",
+      "twitterTitle": "Wiki de Home Alone Anomaly - Guía, Visitantes y Finales",
+      "twitterDescription": "Explora la guía de Home Alone Anomaly, visitantes, anomalías, finales y consejos de supervivencia para el juego de horror en la puerta de Roblox."
+    }
+  },
+  "nav": {
+    "guide": "Guía",
+    "walkthrough": "Guía",
+    "visitors": "Visitantes",
+    "survival": "Supervivencia",
+    "endings": "Finales",
+    "mechanics": "Mecánicas"
+  },
+  "common": {
+    "home": "Casa",
+    "more": "Más",
+    "switchLanguage": "Cambiar Idioma",
+    "switchTheme": "Cambiar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Oscuro",
+    "notFound": "Página No Encontrada",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "backToHome": "Volver al Inicio",
+    "relatedArticles": "Artículos Relacionados",
+    "readMore": "Leer Más",
+    "articlesComingSoon": "Artículos pronto"
+  },
+  "hero": {
+    "badge": "Horror de Supervivencia en la Puerta",
+    "title": "Wiki de Home Alone Anomaly",
+    "description": "Inspecciona visitantes inesperados, identifica anomalías sospechosas, decide quién confiar y sobrevive la noche en esta experiencia de horror de Roblox.",
+    "getFreeCodesCTA": "Ver Guía",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "539",
+        "label": "Jugadores En Línea"
+      },
+      "stat2": {
+        "value": "92%",
+        "label": "Calificación de Aprobación"
+      },
+      "stat3": {
+        "value": "6.9K+",
+        "label": "Favoritos"
+      },
+      "stat4": {
+        "value": "1",
+        "label": "Noche para Sobrevivir"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Home Alone Anomaly",
+    "description": "Inspecciona visitantes inesperados, identifica anomalías peligrosas y sobrevive una sola noche aterrador en esta experiencia de horror en la puerta de Roblox."
+  },
+  "tools": {
+    "title": "Home Alone Anomaly",
+    "titleHighlight": "Guías",
+    "subtitle": "Todo lo que necesitas para inspeccionar visitantes, detectar anomalías y sobrevivir cada noche en Home Alone Anomaly.",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Guía de Home Alone Anomaly",
+        "description": "Ruta de supervivencia nocturna paso a paso completa"
+      },
+      {
+        "icon": "Usuarios",
+        "title": "Guía de Visitantes de Home Alone Anomaly",
+        "description": "Juzga a cada visitante en la puerta antes de abrir"
+      },
+      {
+        "icon": "Ojo",
+        "title": "Guía de Anomalías de Home Alone Anomaly",
+        "description": "Detecta alertas visuales, auditivas y ambientales"
+      },
+      {
+        "icon": "Estrella",
+        "title": "Guía de Finales de Home Alone Anomaly",
+        "description": "Llegar a la escena final y evitar fracasos tempranos"
+      },
+      {
+        "icon": "Brillos",
+        "title": "Guía de Principiantes de Home Alone Anomaly",
+        "description": "Distribución de la casa, bucle de visitantes y primeros pasos"
+      },
+      {
+        "icon": "Escudo",
+        "title": "Consejos de Supervivencia de Home Alone Anomaly ---",
+        "description": "Revisión práctica para sobrevivir de manera más consistente"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Controles y mecánicas de Home Alone Anomaly",
+        "description": "Movimiento, inspección, diálogo y decisiones"
+      },
+      {
+        "icon": "Reloj",
+        "title": "Actualizaciones de Home Alone Anomaly",
+        "description": "Nuevos visitantes, arreglos y noticias del desarrollador"
+      }
+    ]
+  },
+  "modules": {
+    "walkthrough": {
+      "eyebrow": "Guía completa",
+      "title": "Guía de Home Alone Anomaly",
+      "subtitle": "Sigue la secuencia completa de inspecciones, encuentros con visitantes y decisiones de supervivencia. Cada paso explica qué verificar antes de continuar.",
+      "steps": [
+        {
+          "title": "Aprende la disposición normal de la casa",
+          "description": "Antes de que comiencen los eventos peligrosos, inspecciona las habitaciones, puertas, ventanas, muebles y decoraciones. Recordar la disposición normal facilita reconocer los cambios visuales posteriores.",
+          "survivalTip": "No te apresures por la sección de apertura, porque los detalles ambientales pequeños se vuelven importantes más tarde."
+        },
+        {
+          "title": "Comienza el ritual nocturno",
+          "description": "Navega por la casa y completa las interacciones disponibles mientras escuchas golpes en la puerta, movimientos y otros sonidos. Regresa a las áreas principales regularmente en lugar de quedarte en una habitación.",
+          "survivalTip": "Mantén una ruta de inspección repetible para notar lo que ha cambiado entre las comprobaciones."
+        },
+        {
+          "title": "Inspecciona a cada visitante con cuidado",
+          "description": "Cuando alguien aparezca en la puerta, observa su apariencia y lee todo el diálogo antes de decidir. Busca comportamientos inusuales, declaraciones inconsistentes o detalles que no coinciden con la situación.",
+          "survivalTip": "Un visitante que se parece a alguien conocido debe ser tratado como sospechoso cuando su comportamiento se siente incorrecto."
+        },
+        {
+          "title": "Revisa la casa después de cada encuentro",
+          "description": "Después de manejar a un visitante, inspecciona el interior nuevamente. Las anomalías pueden aparecer como objetos cambiados, figuras inusuales, cambios en la iluminación o movimientos inesperados.",
+          "survivalTip": "Compara la habitación actual con lo que viste durante la inspección de apertura."
+        },
+        {
+          "title": "Evita interacciones peligrosas",
+          "description": "No te acercas a figuras sospechosas o interactúas con eventos claramente anormales a menos que el juego lo requiera. Crea distancia y usa la respuesta más segura disponible cuando un encuentro se vuelve amenazante.",
+          "survivalTip": "La curiosidad puede desencadenar un fracaso temprano, por lo que la supervivencia debe tener prioridad sobre la exploración."
+        },
+        {
+          "title": "Continúa el ciclo de observación",
+          "description": "Repite el proceso de comprobación de puertas, revisión de diálogos e inspección de la casa a medida que avanza la noche. Los encuentros posteriores requieren una atención más cercana porque las señales de alerta pueden volverse menos obvias.",
+          "survivalTip": "Revisa las ventanas, pasillos y habitaciones que parecían normales durante el ciclo anterior."
+        },
+        {
+          "title": "Maneja los encuentros finales",
+          "description": "A medida que se acerca el final de la noche, usa todo lo aprendido de los visitantes anteriores y las anomalías. Rechaza opciones claramente inseguras y evita riesgos innecesarios antes de que comience la secuencia final.",
+          "survivalTip": "Una decisión descuidada a finales del juego puede terminar el juego antes de la escena final."
+        },
+        {
+          "title": "Llegar a la escena final",
+          "description": "Supervivir la secuencia restante sin invitar peligro dentro o acercarse a amenazas activas. La escena final comienza después de que se hayan completado los encuentros y etapas de inspección requeridos.",
+          "survivalTip": "Mantente enfocado hasta que se retire completamente el control o cuando claramente comience la secuencia final."
+        }
+      ]
+    },
+    "visitorsGuide": {
+      "eyebrow": "Decisiones de visitantes",
+      "title": "Guía de visitantes de Home Alone Anomaly",
+      "subtitle": "Usa apariencia, diálogo y comportamiento para decidir si un visitante es seguro. Nunca confíes únicamente en una cara familiar.",
+      "cards": [
+        {
+          "icon": "Usuarios",
+          "title": "Visitante de aspecto normal",
+          "description": "Un visitante puede parecer ordinario y hablar calmadamente sin mostrar una anomalía visual inmediata.",
+          "warningSigns": "Su explicación puede seguir siendo vaga, inconsistente o no relacionada con el motivo por el que llegó a la casa.",
+          "recommendedAction": "Lee cada línea de diálogo y solo continúa cuando su apariencia y historia sigan siendo consistentes."
+        },
+        {
+          "icon": "MessageCircle",
+          "title": "Visitante de aspecto familiar",
+          "description": "Algunos visitantes pueden parecer reconocibles o intentar ganar confianza a través de la familiaridad.",
+          "warningSigns": "Expresiones inusuales, vocabulario extraño, tiempos inusuales o comportamientos que no coinciden con la persona a la que se parecen.",
+          "recommendedAction": "Juzga al visitante por la evidencia actual en lugar del reconocimiento y rechaza la entrada cuando los detalles no coinciden."
+        },
+        {
+          "icon": "AlertTriangle",
+          "title": "Visitante con características anormales",
+          "description": "Un visitante peligroso puede mostrar detalles faciales distorsionados, proporciones inusuales o otras anomalías visibles.",
+          "warningSigns": "Ojos, boca, postura, movimiento o forma del cuerpo parecen notoriamente incorrectos.",
+          "recommendedAction": "No permitas que el visitante entre y evita interacciones prolongadas después de identificar la anomalía."
+        },
+        {
+          "icon": "Shield",
+          "title": "Visitante agresivo",
+          "description": "Un visitante inseguro puede presionar al jugador, volverse amenazante o exigir una respuesta inmediata.",
+          "warningSigns": "Lenguaje hostil, demandas repetidas, cambios repentinos en el tono o intentos de evitar una inspección cuidadosa.",
+          "recommendedAction": "No respondas a la presión abriendo la puerta; elige la opción que mantenga la casa segura."
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Visitante con una historia inconsistente",
+          "description": "El visitante da un motivo para llegar, pero partes de la explicación conflictúan con su comportamiento o la situación.",
+          "warningSigns": "Diálogo contradictorio, detalles faltantes o declaraciones que cambian durante la conversación.",
+          "recommendedAction": "Trate las contradicciones como una señal de peligro y niegue el acceso."
+        },
+        {
+          "icon": "Ojo",
+          "title": "Visitante Silencioso o Inresponsive",
+          "description": "Una persona puede permanecer especialmente callada o no responder de manera normal durante la interacción con la puerta.",
+          "warningSigns": "Silencio prolongado, mirada fija, diálogo limitado o falta de una explicación creíble para estar presente.",
+          "recommendedAction": "Mantenga la puerta cerrada y finalice el encuentro sin acercarse más."
+        },
+        {
+          "icon": "Reloj",
+          "title": "Visitante que Llega en un Tiempo Inusual",
+          "description": "Un visitante puede llegar cuando su presencia no encaja con el punto actual de la noche.",
+          "warningSigns": "El tiempo parece inexplicable, el visitante actúa como si la situación fuera normal o su razón para llegar es débil.",
+          "recommendedAction": "Use la hora de llegada como una pista adicional y rechace al visitante cuando conflictúe con su historia."
+        },
+        {
+          "icon": "FlechaDerecha",
+          "title": "Visitante Seguido por un Cambio de Casa",
+          "description": "El peligro puede volverse claro solo después de que finalice la conversación y el jugador regrese al interior.",
+          "warningSigns": "Sonidos nuevos, habitaciones alteradas, figuras inusuales, iluminación cambiada o objetos que no estaban antes.",
+          "recommendedAction": "Inspeccione la casa inmediatamente después de cada encuentro y actúe ante cualquier nueva anomalía antes de continuar."
+        }
+      ]
+    },
+    "anomaliesGuide": {
+      "eyebrow": "Detección de Anomalías",
+      "title": "Guía de Anomalías de Home Alone Anomaly",
+      "subtitle": "Compare cada habitación con su estado normal y reaccione cuando las personas, los objetos, la iluminación o los sonidos cambien de manera inesperada.",
+      "cards": [
+        {
+          "icon": "Ojo",
+          "title": "Figura Inesperada",
+          "location": "Pasillos, habitaciones, ventanas u otras áreas visibles",
+          "description": "Aparece una persona o forma humana en un lugar que estaba previamente vacío.",
+          "warningSigns": "La figura permanece inmóvil, observa al jugador, aparece de manera repentina o tiene características innaturales.",
+          "recommendedAction": "No se acerque innecesariamente y siga la ruta más segura posible hacia el área."
+        },
+        {
+          "icon": "Paquete",
+          "title": "Mobiliario o Objetos Cambiados",
+          "location": "Áreas de vida y habitaciones que contienen objetos reconocibles",
+          "description": "El mobiliario, decoraciones o artículos domésticos parecen movidos, reemplazados, faltantes o alterados visualmente.",
+          "warningSigns": "Un objeto ya no coincide con su posición original, forma, número o apariencia.",
+          "recommendedAction": "Trate el cambio como una anomalía activa y evite interactuar con él a menos que el progreso lo requiera."
+        },
+        {
+          "icon": "AlertaTriángulo",
+          "title": "Rostro o Cuerpo Anormal",
+          "location": "Encuentros con puertas y apariciones de personajes a corta distancia",
+          "description": "Un personaje muestra detalles faciales o físicos que no parecen humanos o consistentes.",
+          "warningSigns": "Ojos, boca, extremidades, postura, proporciones o expresiones distorsionadas.",
+          "recommendedAction": "Rechace al visitante o aleje de inmediato del personaje."
+        },
+        {
+          "icon": "Brillos",
+          "title": "Cambio de Iluminación",
+          "location": "Cualquier habitación o pasillo",
+          "description": "La intensidad, el color o el comportamiento de las luces cambia sin una causa normal.",
+          "warningSigns": "Oscuridad repentina, parpadeo, iluminación irregular o una habitación que se ve diferente en la inspección anterior.",
+          "recommendedAction": "Inspeccione el área desde una distancia segura y revise las habitaciones cercanas por cambios adicionales."
+        },
+        {
+          "icon": "Casa",
+          "title": "Anomalía de Ventana",
+          "location": "Ventanas visibles desde el interior de la casa",
+          "description": "Aparece una figura, movimiento o detalle visual fuera o directamente contra una ventana.",
+          "warningSigns": "Aparece una cara, silueta, movimiento inexplicable o un objeto donde antes no había nada.",
+          "recommendedAction": "No se mueva directamente hacia la ventana y manténgase alerta por un encuentro relacionado dentro."
+        },
+        {
+          "icon": "Ajustes",
+          "title": "Anomalía de Puerta",
+          "location": "Puerta principal y pasillos interiores",
+          "description": "Una puerta se comporta de manera diferente, revela algo inusual o se conecta a un evento sospechoso con el visitante.",
+          "warningSigns": "Apertura inesperada, golpeteos repetidos, sonidos inusuales o una figura peligrosa visible cerca.",
+          "recommendedAction": "Mantenga la entrada segura e inspeccione antes de elegir cualquier interacción."
+        },
+        {
+          "icon": "MensajeCírculo",
+          "title": "Sonido Inexplicable",
+          "location": "A lo largo de la casa",
+          "description": "Pasos, golpeteos, movimiento u otro sonido ocurre sin una fuente visible.",
+          "warningSigns": "El sonido se repite, se mueve entre habitaciones o comienza inmediatamente después de un encuentro con un visitante.",
+          "recommendedAction": "Revisa las áreas cercanas con cuidado sin apresurarte hacia la fuente."
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "El entorno ya no coincide",
+          "location": "Cualquier habitación inspeccionada anteriormente",
+          "description": "Múltiples detalles en una habitación cambian juntos, haciendo que el espacio se sienta notablemente diferente de su estado original.",
+          "warningSigns": "Objetos alterados, iluminación, figuras o detalles de la habitación aparecen durante la misma inspección.",
+          "recommendedAction": "Sal del área, evita interacciones sospechosas y continúa solo después de identificar una ruta segura."
+        }
+      ]
+    },
+    "endingsGuide": {
+      "eyebrow": "Estados de finalización y fracaso",
+      "title": "Guía de Finalizaciones de Home Alone Anomaly",
+      "subtitle": "El resultado final depende de sobrevivir a los encuentros con visitantes y responder correctamente a las anormalidades peligrosas.",
+      "items": [
+        {
+          "heading": "¿Cómo llegar al final principal en Home Alone Anomaly?",
+          "content": "Completa la secuencia nocturna mientras mantienes la casa segura, manejas los encuentros con visitantes de manera segura y sobrevives a cada evento de anormalidad. Continúa siguiendo el ciclo de inspección hasta que comience la escena final programada."
+        },
+        {
+          "heading": "¿Qué sucede si confías en el visitante equivocado en Home Alone Anomaly?",
+          "content": "Permitir que un visitante sospechoso o anómalo acceda puede desencadenar un encuentro peligroso y finalizar la partida antes de la escena final. Revisa su apariencia, diálogo y comportamiento antes de tomar la decisión."
+        },
+        {
+          "heading": "¿Puede ser peligroso una persona que se parece a alguien familiar en Home Alone Anomaly?",
+          "content": "Sí. La familiaridad no es suficiente para confirmar que un visitante es seguro. Características innaturales, diálogos inconsistentes o comportamiento extraño deben tener prioridad sobre la apariencia del visitante."
+        },
+        {
+          "heading": "¿Qué causa un fracaso temprano en Home Alone Anomaly?",
+          "content": "Causas comunes incluyen abrir la puerta a un visitante inseguro, acercarse a una figura amenazante, ignorar un cambio ambiental obvio o seleccionar una interacción riesgosa durante un encuentro."
+        },
+        {
+          "heading": "¿Por qué debes inspeccionar la casa repetidamente en Home Alone Anomaly?",
+          "content": "Nuevas anormalidades pueden aparecer después de conversaciones con visitantes y otros eventos programados. Revisar las mismas habitaciones permite al jugador notar los cambios antes de entrar en una área peligrosa."
+        },
+        {
+          "heading": "¿Cuál es la estrategia de visitante más segura en Home Alone Anomaly?",
+          "content": "Mantén la puerta cerrada hasta que la apariencia, el diálogo y el motivo de llegada del visitante tengan sentido. Rechaza la entrada siempre que uno de esos detalles aparezca anómalo o contradictorio."
+        },
+        {
+          "heading": "¿Cómo sobrevives la secuencia final en Home Alone Anomaly?",
+          "content": "Evita la exploración innecesaria, mantén distancia de figuras sospechosas y continúa eligiendo las respuestas más seguras disponibles. No asumas que el peligro ha terminado hasta que la escena final haya comenzado completamente."
+        },
+        {
+          "heading": "¿Qué debes hacer después de una partida fallida en Home Alone Anomaly?",
+          "content": "Repite la noche mientras te concentras en el encuentro que causó el fracaso. Memoriza el diseño normal de la habitación, desacelerate durante el diálogo del visitante e inspecciona la casa después de cada evento importante."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Comienza aquí",
+      "title": "Guía de principiantes de Home Alone Anomaly",
+      "subtitle": "Aprende el ciclo básico de supervivencia, inspecciona la casa y maneja a los visitantes sin precipitarte en decisiones peligrosas.",
+      "steps": [
+        {
+          "title": "Aprende el diseño de la casa",
+          "description": "Pasea por las habitaciones accesibles antes de concentrarte en los visitantes. Recuerda la ruta entre las áreas principales de estar y la puerta delantera para investigar los cambios sin perderse.",
+          "checklist": [
+            "Localiza la puerta delantera",
+            "Revisa las habitaciones accesibles",
+            "Recuerda la ruta de regreso más rápida"
+          ]
+        },
+        {
+          "title": "Inspecciona el entorno inicial",
+          "description": "Mira alrededor de la casa y nota lo que parece normal al principio de la noche. Esto te da un punto de referencia para reconocer objetos, sonidos o detalles de la habitación que cambien más tarde.",
+          "checklist": [
+            "Revisa los objetos visibles",
+            "Nota la iluminación y los sonidos",
+            "Recuerda cualquier cosa inusual"
+          ]
+        },
+        {
+          "title": "Acércate a los visitantes con cautela",
+          "description": "Cuando alguien llega, no dejes que entre de inmediato. Ve a la puerta, observa al visitante y espera a la interacción o diálogo disponible antes de decidir.",
+          "checklist": [
+            "Observa antes de abrir",
+            "Lee todo el diálogo",
+            "Evita decisiones instantáneas"
+          ]
+        },
+        {
+          "title": "Busca anormalidades",
+          "description": "Compara la apariencia, el comportamiento y las declaraciones del visitante con lo que ya has visto. Detalles extraños o información inconsistente pueden indicar que el encuentro es peligroso.",
+          "checklist": [
+            "Inspecciona los detalles faciales y corporales",
+            "Busca comportamientos inusuales",
+            "Nota el diálogo inconsistente"
+          ]
+        },
+        {
+          "title": "Toma la decisión de la puerta",
+          "description": "Elige si confiar o rechazar al visitante solo después de completar tu inspección. Dejar entrar a la persona equivocada o rechazar a un visitante importante puede cambiar el resultado de la noche.",
+          "checklist": [
+            "Revisa las pistas visibles",
+            "Considera la explicación del visitante",
+            "Elige con cuidado"
+          ]
+        },
+        {
+          "title": "Repite el ciclo de supervivencia",
+          "description": "Después de cada encuentro, revisa la casa nuevamente y prepárate para el siguiente visitante. Continúa observando, comparando y decidiendo hasta que la secuencia actual alcance su final.",
+          "checklist": [
+            "Revisa las habitaciones cercanas",
+            "Busca cambios en el entorno",
+            "Prepara el siguiente encuentro ---"
+          ]
+        }
+      ]
+    },
+    "survivalTips": {
+      "eyebrow": "Supervivencia",
+      "title": "Consejos de Supervivencia para Home Alone Anomaly",
+      "subtitle": "Usa estas comprobaciones prácticas para identificar visitantes sospechosos, notar cambios dentro de la casa y evitar muertes prevenibles.",
+      "cards": [
+        {
+          "icon": "Reloj",
+          "title": "Nunca Decidir de Inmediato",
+          "description": "Espera hasta que hayas inspeccionado al visitante y hayas leído toda la conversación. Una elección apresurada en la puerta puede terminar la partida antes de que se vuelvan claros los signos de alerta importantes.",
+          "priority": "Esencial"
+        },
+        {
+          "icon": "Ojo",
+          "title": "Revisa la Apariencia del Visitante",
+          "description": "Busca detalladamente características faciales inusuales, detalles del cuerpo, movimiento u otras incoherencias visuales antes de permitir que alguien entre en la casa.",
+          "priority": "Esencial"
+        },
+        {
+          "icon": "MensajeCírculo",
+          "title": "Lee Cada Línea de Diálogo",
+          "description": "El diálogo del visitante puede proporcionar pistas sobre la identidad, las intenciones o contradicciones. Saltar texto hace que las confrontaciones sospechosas sean más difíciles de juzgar.",
+          "priority": "Esencial"
+        },
+        {
+          "icon": "Usuarios",
+          "title": "Comparar Encuentros Repetidos",
+          "description": "Un visitante familiar no debe ser automáticamente confiado. Compara su apariencia y comportamiento actuales con encuentros anteriores, ya que las pequeñas diferencias pueden importar.",
+          "priority": "Alto"
+        },
+        {
+          "icon": "Casa",
+          "title": "Revisa la Casa de Nuevo",
+          "description": "Los cambios ambientales pueden aparecer entre los encuentros de visitantes. Inspecciona las habitaciones cercanas y los objetos visibles en lugar de permanecer en la puerta toda la noche.",
+          "priority": "Alto"
+        },
+        {
+          "icon": "AlertaTriángulo",
+          "title": "Usa el Sonido como Alerta",
+          "description": "Presta atención a los golpes, movimiento y otros sonidos auditivos. Los sonidos inesperados pueden indicar un nuevo visitante o un cambio en algún lugar dentro de la casa.",
+          "priority": "Alto"
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Recuerda las Clues Previas",
+          "description": "Mantén registro de lo que dijeron los visitantes y cómo se veía la casa anteriormente. Las decisiones posteriores pueden depender de reconocer una contradicción o una anomalía repetida.",
+          "priority": "Útil"
+        },
+        {
+          "icon": "FlechaDerecha",
+          "title": "Mantente Cerca de una Ruta Clara",
+          "description": "Aprende la ruta más corta entre las habitaciones principales y la entrada. Moverse con confianza por la casa hace que las inspecciones repetidas sean más rápidas y seguras.",
+          "priority": "Útil"
+        }
+      ]
+    },
+    "controlsAndMechanics": {
+      "eyebrow": "Gameplay Básicos",
+      "title": "Controles y Mecánicas de Home Alone Anomaly",
+      "subtitle": "Entiende el movimiento, la interacción, la inspección de visitantes, las decisiones de diálogo y el ciclo de encuentros central.",
+      "rows": [
+        {
+          "action": "Moverse",
+          "input": "WASD o palo analogico izquierdo",
+          "purpose": "Camina por la casa y acércate a áreas interactivas.",
+          "mechanic": "El movimiento se usa para inspeccionar habitaciones, regresar a la entrada e investigar cambios."
+        },
+        {
+          "action": "Mirar a tu Alrededor",
+          "input": "Movimiento del ratón o palo analogico derecho",
+          "purpose": "Examina visitantes, objetos y el entorno circundante.",
+          "mechanic": "Una inspección visual cuidadosa ayuda a revelar detalles sospechosos y anomalías ambientales."
+        },
+        {
+          "action": "Interactuar",
+          "input": "Sigue la indicación de interacción en pantalla",
+          "purpose": "Usa puertas, examina objetos disponibles y comienza las interacciones de visitantes.",
+          "mechanic": "Las indicaciones de interacción aparecen cuando el jugador está lo suficientemente cerca de un objeto o punto de encuentro utilizable."
+        },
+        {
+          "action": "Inspeccionar la Puerta",
+          "input": "Acércate a la entrada y usa la indicación disponible",
+          "purpose": "Observa a la persona esperando afuera antes de tomar una decisión.",
+          "mechanic": "El encuentro de la puerta es el punto principal donde se presentan información del visitante y pistas visuales."
+        },
+        {
+          "action": "Avanzar Diálogo",
+          "input": "Selecciona o confirma la opción de diálogo mostrada",
+          "purpose": "Continúa las conversaciones y revela información adicional.",
+          "mechanic": "El diálogo puede contener pistas, contradicciones e información necesaria para juzgar a un visitante."
+        },
+        {
+          "action": "Elegir una Respuesta",
+          "input": "Selecciona una de las opciones mostradas ---",
+          "purpose": "Decida cómo manejar al visitante o evento actual.",
+          "mechanic": "Las opciones afectan si un visitante es aceptado, rechazado o gestionado mediante otra respuesta disponible."
+        },
+        {
+          "action": "Revisar el entorno",
+          "input": "Moverse entre habitaciones e inspeccionar detalles visibles",
+          "purpose": "Buscar cambios que aparecieron después de un encuentro.",
+          "mechanic": "La casa puede proporcionar señales de alerta adicionales más allá del visitante que está en la puerta."
+        },
+        {
+          "action": "Continuar la noche",
+          "input": "Completar el encuentro actual",
+          "purpose": "Avanzar al siguiente visitante o evento de la historia.",
+          "mechanic": "El ciclo de supervivencia se repite a través de la inspección, el diálogo, la toma de decisiones y la revisión del entorno."
+        }
+      ]
+    },
+    "updates": {
+      "eyebrow": "Actualizaciones del juego",
+      "title": "Actualizaciones de Home Alone Anomaly",
+      "subtitle": "Siga los cambios en la experiencia, incluyendo el contenido de visitantes, ajustes de juego, correcciones y anuncios de desarrolladores.",
+      "items": [
+        {
+          "title": "Nuevo contenido de visitante",
+          "summary": "Encuentros de visitantes adicionales pueden introducir nuevo diálogo, apariencias y resultados de decisiones.",
+          "details": [
+            "Los nuevos visitantes pueden requerir métodos de inspección diferentes",
+            "Las suposiciones existentes pueden no aplicarse a nuevos encuentros añadidos",
+            "Revisar el diálogo y las pistas visuales antes de tomar una decisión"
+          ]
+        },
+        {
+          "title": "Cambios en el comportamiento de los visitantes",
+          "summary": "Las actualizaciones pueden ajustar cómo aparecen, hablan o reaccionan los visitantes durante los encuentros en la puerta.",
+          "details": [
+            "Clues de diálogo pueden cambiar o expandirse",
+            "Anomalías visuales pueden volverse más fáciles o más difíciles de notar",
+            "Decisiones previamente seguras pueden necesitar ser reconsideradas"
+          ]
+        },
+        {
+          "title": "Cambios en la casa y el entorno",
+          "summary": "La disposición de la casa, áreas interactivas, iluminación, sonidos o eventos ambientales pueden ser ajustados.",
+          "details": [
+            "Pueden aparecer nuevas pistas ambientales entre los encuentros",
+            "Los detalles de las habitaciones existentes pueden cambiar",
+            "Ajustes de audio y iluminación pueden afectar la detección de anomalías"
+          ]
+        },
+        {
+          "title": "Ajustes de equilibrio del juego",
+          "summary": "Los cambios en el equilibrio pueden afectar el momento de los encuentros, la dificultad de las decisiones y el ciclo de supervivencia en general.",
+          "details": [
+            "Secuencias de visitantes pueden ser ajustadas",
+            "El momento de la interacción puede cambiar",
+            "Las ventanas de decisión pueden volverse más cortas o más largas"
+          ]
+        },
+        {
+          "title": "Correcciones de errores",
+          "summary": "Las correcciones abordan problemas con las interacciones, el diálogo, los eventos de visitantes, el movimiento o el progreso.",
+          "details": [
+            "Las interacciones en la puerta pueden recibir correcciones de estabilidad",
+            "Problemas de progreso de diálogo o elección pueden ser corregidos",
+            "Los eventos ambientales pueden activarse con mayor consistencia"
+          ]
+        },
+        {
+          "title": "Mejoras en la interfaz y el control",
+          "summary": "Las actualizaciones pueden mejorar los recordatorios, la visibilidad del diálogo, los controles móviles u otros elementos de la interfaz.",
+          "details": [
+            "Los recordatorios de interacción pueden volverse más claros",
+            "El comportamiento de la entrada móvil puede ser ajustado",
+            "La presentación del diálogo puede mejorarse"
+          ]
+        },
+        {
+          "title": "Anuncios de desarrolladores",
+          "summary": "La comunidad de desarrolladores puede publicar avisos sobre contenido futuro, mantenimiento y cambios importantes.",
+          "details": [
+            "Revise los anuncios antes de comenzar una nueva ruta de guía",
+            "Revise los cambios importantes que afectan las decisiones de visitantes",
+            "Busque avisos de mantenimiento o juego temporal"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre Home Alone Anomaly",
+    "questions": [
+      {
+        "question": "¿Qué es Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly es un juego de supervivencia de horror en la puerta de Roblox donde debes inspeccionar visitantes, detectar anomalías y decidir quién confiar para sobrevivir la noche."
+      },
+      {
+        "question": "¿Cómo sobrevivo en Home Alone Anomaly?",
+        "answer": "Inspeccione cada visitante con cuidado, lea todo el diálogo, compare la casa con su estado normal y mantenga cerrada la puerta siempre que un detalle se sienta incorrecto."
+      },
+      {
+        "question": "¿A quién debo confiar en Home Alone Anomaly?",
+        "answer": "Trate a cada visitante como sospechoso hasta que su apariencia, diálogo y razón para llegar permanezcan consistentes. La familiaridad por sí sola nunca es suficiente para confirmar que un visitante es seguro."
+      },
+      {
+        "question": "¿Qué son las anomalías en Home Alone Anomaly?",
+        "answer": "Las anomalías son cambios dentro o alrededor de la casa, como figuras inesperadas, objetos movidos, cambios en la iluminación o sonidos inexplicables, que advierten de un evento peligroso que puede estar cerca."
+      },
+      {
+        "question": "¿Cuántos finales tiene Home Alone Anomaly? ---",
+        "answer": "Home Alone Anomaly se construye hacia una escena final que se desbloquea cuando sobrevives a los encuentros con visitantes y eventos de anomalías sin invitar peligro al interior."
+      },
+      {
+        "question": "¿Dónde puedo jugar Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly es una experiencia gratuita de Roblox que puedes jugar a través de la página oficial de Roblox en cualquier dispositivo compatible."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para sobrevivir Home Alone Anomaly?",
+    "description": "Revisa la comunidad oficial de Roblox para consejos de visitantes, pistas de anomalías y las últimas actualizaciones del juego!",
+    "joinCommunity": "Visita la Comunidad",
+    "joinGame": "Juega en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Home Alone Anomaly",
+    "description": "Tu centro de recursos completo para guías de Home Alone Anomaly, visitantes, anomalías, finales, decisiones y consejos de supervivencia.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "robloxCommunity": "Comunidad de Roblox",
+    "robloxGame": "Juego de Roblox",
+    "walkthroughVideo": "Ver Guía",
+    "youTubeSearch": "Búsqueda en YouTube",
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Derechos de Autor",
+    "copyright": "© 2026 Wiki de Home Alone Anomaly. No está afiliado con los desarrolladores de Home Alone Anomaly.",
+    "disclaimer": "Sitio web de recursos fanmade no oficial."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guía de Home Alone Anomaly",
+      "description": "Guía completa para principiantes de Home Alone Anomaly: aprende el diseño de la casa, el objetivo, la ruta de inicio y cómo jugar desde tu primera noche.",
+      "metaTitle": "Guía de Home Alone Anomaly - Cómo Jugar y Consejos para Principiantes",
+      "metaDescription": "Empieza fuerte con nuestra guía completa de Home Alone Anomaly que cubre el diseño de la casa, el objetivo, la ruta de inicio y los pasos para sobrevivir tu primera noche.",
+      "categoryLabel": "GUÍA",
+      "whatIs": "¿Qué es la guía?",
+      "whatIsDescription": "Una introducción completa a Home Alone Anomaly que explica el objetivo, el diseño de la casa, la ruta de inicio y el ciclo principal de inspeccionar visitantes y sobrevivir la noche.",
+      "why": "¿Por qué comenzar con la guía?",
+      "whySteps": {
+        "step1Title": "Aprende el Diseño de la Casa",
+        "step1Description": "Mapa de habitaciones, puertas y la ruta de regreso antes de que comience la noche",
+        "step2Title": "Entiende el Objetivo",
+        "step2Description": "Sabe qué debes hacer cada noche para avanzar de manera segura",
+        "step3Title": "Elige una Ruta de Inicio",
+        "step3Description": "Usa una ruta de inspección repetible para que los cambios sean fáciles de notar"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todos los Artículos de la Guía"
+    },
+    "walkthrough": {
+      "title": "Guía de Home Alone Anomaly",
+      "description": "Guía paso a paso completa para sobrevivir a cada visitante y anomalía desde el principio de la noche hasta la escena final.",
+      "metaTitle": "Guía de Home Alone Anomaly - Ruta de Supervivencia Completa de una Noche",
+      "metaDescription": "Sigue la guía completa de Home Alone Anomaly cubriendo cada inspección de visitante, pista de anomalía y decisión de supervivencia necesaria para llegar a la escena final.",
+      "categoryLabel": "WALKTHROUGH",
+      "whatIs": "¿Qué es el walkthrough?",
+      "whatIsDescription": "Una ruta cronológica completa a través de Home Alone Anomaly que explica cada inspección, encuentro con visitante y decisión de supervivencia en orden.",
+      "why": "¿Por qué seguir el walkthrough?",
+      "whySteps": {
+        "step1Title": "Aprende el Orden de Inspección",
+        "step1Description": "Entiende qué habitaciones y detalles deben revisarse antes de cada encuentro",
+        "step2Title": "Maneja a los Visitantes con Seguridad",
+        "step2Description": "Aplica la respuesta correcta a cada tipo de visitante",
+        "step3Title": "Llegar a la Escena Final",
+        "step3Description": "Evita los errores que acaban una partida temprano"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Walkthrough"
+    },
+    "visitors": {
+      "title": "Guía de Visitantes de Home Alone Anomaly",
+      "description": "Identifica a cada visitante en la puerta, lee sus señales de alerta y aprende la respuesta más segura para cada encuentro.",
+      "metaTitle": "Guía de Visitantes de Home Alone Anomaly - Quién Confiar",
+      "metaDescription": "Aprende cómo juzgar a cada visitante en Home Alone Anomaly usando apariencia, diálogo y comportamiento, y decide quién es seguro dejar entrar.",
+      "categoryLabel": "VISITANTES",
+      "whatIs": "¿Qué es la guía de visitantes?",
+      "whatIsDescription": "Un desglose de cada tipo de visitante en Home Alone Anomaly, incluyendo sus señales de alerta y la respuesta recomendada en la puerta.",
+      "why": "¿Por qué estudiar a los visitantes?",
+      "whySteps": {
+        "step1Title": "Identificar señales de alerta",
+        "step1Description": "Reconocer características anormales e historias inconsistentes",
+        "step2Title": "Evitar malas decisiones",
+        "step2Description": "No confiar en los visitantes solo por familiaridad",
+        "step3Title": "Mantenerse consistente",
+        "step3Description": "Aplicar un método de inspección repetible a cada encuentro"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Visitantes"
+    },
+    "survival": {
+      "title": "Consejos de Supervivencia de Home Alone Anomaly",
+      "description": "Comprobaciones prácticas y hábitos que te ayudan a inspeccionar visitantes, notar cambios y sobrevivir la noche de manera más consistente.",
+      "metaTitle": "Consejos de Supervivencia de Home Alone Anomaly - Supervive Cada Noche",
+      "metaDescription": "Usa estos consejos de supervivencia de Home Alone Anomaly para inspeccionar visitantes, captar cambios ambientales y evitar muertes prevenibles a lo largo de la noche.",
+      "categoryLabel": "SUPERVIVENCIA",
+      "whatIs": "¿Cuáles son los consejos de supervivencia?",
+      "whatIsDescription": "Una colección de hábitos de supervivencia prácticos para Home Alone Anomaly que hacen que las inspecciones de visitantes y la detección de anormalidades sean más confiables.",
+      "why": "¿Por qué usar consejos de supervivencia?",
+      "whySteps": {
+        "step1Title": "Inspeccionar de manera confiable",
+        "step1Description": "Crear un ritual de inspección de visitantes repetible",
+        "step2Title": "Captar cambios",
+        "step2Description": "Notar cambios ambientales entre encuentros",
+        "step3Title": "Evitar errores comunes",
+        "step3Description": "Detener las decisiones que causan muertes prevenibles"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Supervivencia"
+    },
+    "endings": {
+      "title": "Guía de Finalizaciones de Home Alone Anomaly",
+      "description": "Entender la escena final, las decisiones que la llevan y los errores que acaban con una partida temprana.",
+      "metaTitle": "Guía de Finalizaciones de Home Alone Anomaly - Llegar a la Escena Final",
+      "metaDescription": "Aprende a llegar a la escena final en Home Alone Anomaly y evita las decisiones comunes que causan un fracaso temprano.",
+      "categoryLabel": "FINALIZACIONES",
+      "whatIs": "¿Qué es la guía de finalizaciones?",
+      "whatIsDescription": "Una explicación del resultado final en Home Alone Anomaly y las decisiones de supervivencia que determinan si la noche se completa.",
+      "why": "¿Por qué leer la guía de finalizaciones?",
+      "whySteps": {
+        "step1Title": "Llegar a la Escena Final",
+        "step1Description": "Completar los encuentros requeridos de manera segura",
+        "step2Title": "Evitar fracasos tempranos",
+        "step2Description": "Saltar las decisiones que acaban con una partida temprana",
+        "step3Title": "Mantenerse consistente",
+        "step3Description": "Seguir aplicando respuestas seguras hasta el final"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Finalizaciones"
+    },
+    "mechanics": {
+      "title": "Mecánicas de Home Alone Anomaly",
+      "description": "Dominar los controles, las opciones de diálogo, el sistema de visitantes y las anormalidades de la casa que impulsan cada encuentro en Home Alone Anomaly.",
+      "metaTitle": "Mecánicas de Home Alone Anomaly - Controles, Diálogo y Anomalías",
+      "metaDescription": "Aprende las mecánicas básicas de Home Alone Anomaly, incluyendo los controles, las opciones de diálogo, el sistema de visitantes, los cambios ambientales y las anormalidades de la casa.",
+      "categoryLabel": "MECÁNICAS",
+      "whatIs": "¿Qué son las mecánicas?",
+      "whatIsDescription": "Los sistemas subyacentes de Home Alone Anomaly, incluyendo los controles de movimiento e inspección, las opciones de diálogo, el sistema de encuentros de visitantes y las anormalidades de la casa que advierten de peligro.",
+      "why": "¿Por qué aprender las mecánicas?",
+      "whySteps": {
+        "step1Title": "Dominar los Controles",
+        "step1Description": "Moverte, mirar e interactuar de manera eficiente durante cada encuentro",
+        "step2Title": "Entender las Opciones de Diálogo",
+        "step2Description": "Leer cada opción con cuidado y juzgar la historia de cada visitante",
+        "step3Title": "Leer las Anomalías de la Casa",
+        "step3Description": "Reconocer cambios ambientales que señalan una amenaza cercana"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Mecánicas"
+    }
+  }
+}
