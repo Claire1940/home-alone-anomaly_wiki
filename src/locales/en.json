@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Home Alone Anomaly Wiki - Walkthrough, Visitors & Endings",
+      "description": "Explore the Home Alone Anomaly walkthrough, visitor choices, anomaly clues, endings, survival tips, secrets, and the latest Roblox game updates.",
+      "keywords": "Home Alone Anomaly, Roblox, walkthrough, visitors, anomalies, endings, survival, horror",
+      "ogTitle": "Home Alone Anomaly Wiki - Walkthrough, Visitors & Endings",
+      "ogDescription": "Explore the Home Alone Anomaly walkthrough, visitor choices, anomaly clues, endings, survival tips, secrets, and the latest Roblox game updates.",
+      "twitterTitle": "Home Alone Anomaly Wiki - Walkthrough, Visitors & Endings",
+      "twitterDescription": "Explore the Home Alone Anomaly walkthrough, visitors, anomalies, endings, and survival tips for the Roblox doorstep horror game."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Doorstep Anomaly Horror Survival",
+    "title": "Home Alone Anomaly Wiki",
+    "description": "Inspect unexpected visitors, identify suspicious anomalies, decide who to trust, and survive the night in this Roblox horror experience.",
+    "getFreeCodesCTA": "View Walkthrough",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
+        "value": "539",
         "label": "Players Online"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "92%",
+        "label": "Approval Rating"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "6.9K+",
+        "label": "Favorites"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "1",
+        "label": "Night to Survive"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Survive Home Alone Anomaly?",
+    "description": "Check the official Roblox community for visitor tips, anomaly clues, and the latest game updates!",
+    "joinCommunity": "Visit Community",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Home Alone Anomaly Wiki",
+    "description": "Your complete resource hub for Home Alone Anomaly walkthroughs, visitors, anomalies, endings, choices, and survival tips.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxCommunity": "Roblox Community",
+    "robloxGame": "Roblox Game",
+    "walkthroughVideo": "Watch Walkthrough",
+    "youTubeSearch": "YouTube Search",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Home Alone Anomaly Wiki. Not affiliated with the developers of Home Alone Anomaly.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
