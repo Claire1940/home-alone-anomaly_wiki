@@ -14,7 +14,6 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +51,515 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Home Alone Anomaly Gameplay",
+    "description": "Inspect unexpected visitors, identify dangerous anomalies, and survive a single terrifying night in this Roblox doorstep horror experience."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Home Alone Anomaly",
+    "titleHighlight": "Guides",
+    "subtitle": "Everything you need to inspect visitors, spot anomalies, and survive every night in Home Alone Anomaly.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "Home Alone Anomaly Walkthrough",
+        "description": "Full step-by-step night survival route"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Users",
+        "title": "Home Alone Anomaly Visitors Guide",
+        "description": "Judge every doorstep visitor before opening"
       },
       {
         "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "title": "Home Alone Anomaly Anomalies Guide",
+        "description": "Spot visual, sound, and environment warnings"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
+        "title": "Home Alone Anomaly Endings Guide",
+        "description": "Reach the final scene and avoid early fails"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "icon": "Sparkles",
+        "title": "Home Alone Anomaly Beginner Guide",
+        "description": "House layout, visitor loop, and first steps"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Home Alone Anomaly Survival Tips",
+        "description": "Practical checks to survive more consistently"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Home Alone Anomaly Controls and Mechanics",
+        "description": "Movement, inspection, dialogue, and choices"
+      },
+      {
+        "icon": "Clock",
+        "title": "Home Alone Anomaly Updates",
+        "description": "New visitors, fixes, and developer news"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "walkthrough": {
+      "eyebrow": "Complete Walkthrough",
+      "title": "Home Alone Anomaly Walkthrough",
+      "subtitle": "Follow the full sequence of inspections, visitor encounters, and survival decisions. Each step explains what to check before continuing.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Learn the Normal House Layout",
+          "description": "Before the dangerous events begin, inspect the rooms, doors, windows, furniture, and decorations. Remembering the normal layout makes later visual changes easy to recognize.",
+          "survivalTip": "Do not rush past the opening section, because small environmental details become important later."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Begin the Night Routine",
+          "description": "Move through the house and complete the available interactions while listening for door knocks, movement, and other audio cues. Return to the main areas regularly instead of remaining in one room.",
+          "survivalTip": "Keep a repeatable inspection route so you can notice what changed between checks."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Inspect Every Visitor Carefully",
+          "description": "When someone appears at the door, observe their appearance and read all dialogue before deciding. Look for unnatural behavior, inconsistent statements, or details that do not match the situation.",
+          "survivalTip": "A familiar-looking visitor should still be treated as suspicious when their behavior feels wrong."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Check the House After Each Encounter",
+          "description": "After dealing with a visitor, inspect the interior again. Anomalies may appear as changed objects, unusual figures, altered lighting, or unexpected movement.",
+          "survivalTip": "Compare the current room with what you saw during the opening inspection."
+        },
+        {
+          "title": "Avoid Dangerous Interactions",
+          "description": "Do not approach suspicious figures or interact with clearly abnormal events unless the game requires it. Create distance and use the safest available response when an encounter becomes threatening.",
+          "survivalTip": "Curiosity can trigger an early failure, so survival should take priority over exploration."
+        },
+        {
+          "title": "Continue the Observation Cycle",
+          "description": "Repeat the door check, dialogue review, and house inspection process as the night progresses. Later encounters demand closer attention because the warning signs can become less obvious.",
+          "survivalTip": "Recheck windows, hallways, and rooms that appeared normal during the previous cycle."
+        },
+        {
+          "title": "Handle the Final Encounters",
+          "description": "Near the end of the night, use everything learned from earlier visitors and anomalies. Reject clearly unsafe choices and avoid unnecessary risks before the final sequence begins.",
+          "survivalTip": "One careless decision late in the run can end the game before the final scene."
+        },
+        {
+          "title": "Reach the Final Scene",
+          "description": "Survive the remaining sequence without inviting danger inside or approaching active threats. The final scene begins after the required encounters and inspection stages have been completed.",
+          "survivalTip": "Stay focused until control is fully removed or the ending sequence clearly starts."
         }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+    "visitorsGuide": {
+      "eyebrow": "Visitor Decisions",
+      "title": "Home Alone Anomaly Visitors Guide",
+      "subtitle": "Use appearance, dialogue, and behavior to decide whether a visitor is safe. Never rely on a familiar face alone.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "icon": "Users",
+          "title": "Normal-Looking Visitor",
+          "description": "A visitor may look ordinary and speak calmly without showing an immediate visual anomaly.",
+          "warningSigns": "Their explanation may still be vague, inconsistent, or unrelated to the reason they came to the house.",
+          "recommendedAction": "Read every dialogue line and only continue when both their appearance and story remain consistent."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "icon": "MessageCircle",
+          "title": "Familiar-Looking Visitor",
+          "description": "Some visitors may appear recognizable or attempt to gain trust through familiarity.",
+          "warningSigns": "Unnatural expressions, strange wording, unusual timing, or behavior that does not match the person they resemble.",
+          "recommendedAction": "Judge the visitor by current evidence rather than recognition and refuse entry when details do not match."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "icon": "AlertTriangle",
+          "title": "Visitor With Abnormal Features",
+          "description": "A dangerous visitor can display distorted facial details, unnatural proportions, or other visible abnormalities.",
+          "warningSigns": "Eyes, mouth, posture, movement, or body shape appear noticeably wrong.",
+          "recommendedAction": "Do not allow the visitor inside and avoid prolonged interaction after identifying the anomaly."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "icon": "Shield",
+          "title": "Aggressive Visitor",
+          "description": "An unsafe visitor may pressure the player, become threatening, or demand an immediate response.",
+          "warningSigns": "Hostile language, repeated demands, sudden changes in tone, or attempts to prevent careful inspection.",
+          "recommendedAction": "Do not respond to pressure by opening the door; choose the option that keeps the house secured."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "icon": "ClipboardCheck",
+          "title": "Visitor With an Inconsistent Story",
+          "description": "The visitor gives a reason for arriving, but parts of the explanation conflict with their behavior or the situation.",
+          "warningSigns": "Contradictory dialogue, missing details, or statements that change during the conversation.",
+          "recommendedAction": "Treat contradictions as a danger signal and deny access."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "icon": "Eye",
+          "title": "Silent or Unresponsive Visitor",
+          "description": "A person may remain unusually quiet or fail to respond normally during the door interaction.",
+          "warningSigns": "Long silence, fixed staring, limited dialogue, or no believable explanation for being present.",
+          "recommendedAction": "Keep the door closed and end the encounter without approaching further."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "icon": "Clock",
+          "title": "Visitor Appearing at an Unusual Time",
+          "description": "A visitor can arrive when their presence does not fit the current point in the night.",
+          "warningSigns": "The timing feels unexplained, the visitor acts as though the situation is normal, or their reason for arriving is weak.",
+          "recommendedAction": "Use the arrival time as an additional clue and reject the visitor when it conflicts with their story."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "icon": "ArrowRight",
+          "title": "Visitor Followed by a House Change",
+          "description": "The danger may become clear only after the conversation ends and the player returns inside.",
+          "warningSigns": "New sounds, altered rooms, unusual figures, changed lighting, or objects that were not present before.",
+          "recommendedAction": "Inspect the house immediately after every encounter and respond to any new anomaly before continuing."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+    "anomaliesGuide": {
+      "eyebrow": "Anomaly Detection",
+      "title": "Home Alone Anomaly Anomalies Guide",
+      "subtitle": "Compare each room with its normal state and react when people, objects, lighting, or sounds change unexpectedly.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "icon": "Eye",
+          "title": "Unexpected Figure",
+          "location": "Hallways, rooms, windows, or other visible areas",
+          "description": "A person or human-like shape appears in a place that was previously empty.",
+          "warningSigns": "The figure remains motionless, watches the player, appears suddenly, or has unnatural features.",
+          "recommendedAction": "Do not approach it unnecessarily and follow the safest available route away from the area."
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
+          "icon": "Package",
+          "title": "Changed Furniture or Objects",
+          "location": "Living areas and rooms containing recognizable objects",
+          "description": "Furniture, decorations, or household items appear moved, replaced, missing, or visually altered.",
+          "warningSigns": "An object no longer matches its original position, shape, number, or appearance.",
+          "recommendedAction": "Treat the change as an active anomaly and avoid interacting with it unless progression requires it."
         },
         {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "icon": "AlertTriangle",
+          "title": "Abnormal Face or Body",
+          "location": "Door encounters and close-range character appearances",
+          "description": "A character displays facial or physical details that do not look human or consistent.",
+          "warningSigns": "Distorted eyes, mouth, limbs, posture, proportions, or expressions.",
+          "recommendedAction": "Reject the visitor or move away from the character immediately."
         },
         {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
+          "icon": "Sparkles",
+          "title": "Lighting Change",
+          "location": "Any room or hallway",
+          "description": "The brightness, color, or behavior of the lights changes without a normal cause.",
+          "warningSigns": "Sudden darkness, flickering, uneven lighting, or a room looking different from the previous inspection.",
+          "recommendedAction": "Inspect the area from a safe distance and check nearby rooms for additional changes."
         },
         {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
+          "icon": "Home",
+          "title": "Window Anomaly",
+          "location": "Windows visible from inside the house",
+          "description": "A figure, movement, or visual detail appears outside or directly against a window.",
+          "warningSigns": "A face, silhouette, unexplained motion, or object appears where nothing was visible before.",
+          "recommendedAction": "Do not move directly toward the window and remain alert for a related encounter inside."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
+          "icon": "Settings",
+          "title": "Door Anomaly",
+          "location": "Front door and interior doorways",
+          "description": "A door behaves differently, reveals something unusual, or becomes connected to a suspicious visitor event.",
+          "warningSigns": "Unexpected opening, repeated knocking, unusual sounds, or a dangerous figure visible nearby.",
+          "recommendedAction": "Keep the entrance secured and inspect before choosing any interaction."
         },
         {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "icon": "MessageCircle",
+          "title": "Unexplained Sound",
+          "location": "Throughout the house",
+          "description": "Footsteps, knocking, movement, or another sound occurs without a visible source.",
+          "warningSigns": "The sound repeats, moves between rooms, or begins immediately after a visitor encounter.",
+          "recommendedAction": "Check nearby areas carefully without rushing toward the source."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "icon": "ClipboardCheck",
+          "title": "Environment No Longer Matches",
+          "location": "Any previously inspected room",
+          "description": "Multiple details in a room change together, making the space feel noticeably different from its original state.",
+          "warningSigns": "Altered objects, lighting, figures, or room details appear during the same inspection.",
+          "recommendedAction": "Leave the area, avoid suspicious interactions, and continue only after identifying a safe route."
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "endingsGuide": {
+      "eyebrow": "Ending and Fail States",
+      "title": "Home Alone Anomaly Endings Guide",
+      "subtitle": "The final outcome depends on surviving the visitor encounters and responding correctly to dangerous anomalies.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "heading": "How do you reach the main ending in Home Alone Anomaly?",
+          "content": "Complete the night sequence while keeping the house secure, handling visitor encounters safely, and surviving each anomaly event. Continue following the inspection cycle until the final scripted scene begins."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "heading": "What happens if you trust the wrong visitor in Home Alone Anomaly?",
+          "content": "Allowing a suspicious or abnormal visitor to gain access can trigger a dangerous encounter and end the run before the final scene. Check appearance, dialogue, and behavior before making the decision."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "heading": "Can a familiar-looking person be dangerous in Home Alone Anomaly?",
+          "content": "Yes. Familiarity is not enough to confirm that a visitor is safe. Unnatural features, inconsistent dialogue, or strange behavior should take priority over the visitor's appearance."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "heading": "What causes an early failure in Home Alone Anomaly?",
+          "content": "Common causes include opening the door for an unsafe visitor, approaching a threatening figure, ignoring an obvious environmental change, or selecting a risky interaction during an encounter."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "heading": "Why should you inspect the house repeatedly in Home Alone Anomaly?",
+          "content": "New anomalies can appear after visitor conversations and other scripted events. Rechecking the same rooms allows the player to notice changes before entering a dangerous area."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "heading": "What is the safest visitor strategy in Home Alone Anomaly?",
+          "content": "Keep the door closed until the visitor's appearance, dialogue, and reason for arriving all make sense. Refuse entry whenever one of those details appears abnormal or contradictory."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "heading": "How do you survive the final sequence in Home Alone Anomaly?",
+          "content": "Avoid unnecessary exploration, maintain distance from suspicious figures, and continue choosing the safest available responses. Do not assume the danger has ended until the final scene has fully started."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "heading": "What should you do after a failed run in Home Alone Anomaly?",
+          "content": "Repeat the night while focusing on the encounter that caused the failure. Memorize the normal room layout, slow down during visitor dialogue, and inspect the house after every major event."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "beginnerGuide": {
+      "eyebrow": "Start Here",
+      "title": "Home Alone Anomaly Beginner Guide",
+      "subtitle": "Learn the basic survival loop, inspect the house, and handle visitors without rushing into dangerous choices.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Learn the House Layout",
+          "description": "Walk through the accessible rooms before focusing on visitors. Remember the route between the main living areas and the front door so you can investigate changes without getting lost.",
+          "checklist": [
+            "Locate the front door",
+            "Check accessible rooms",
+            "Remember the quickest return route"
+          ]
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Inspect the Starting Environment",
+          "description": "Look around the house and note what appears normal at the beginning of the night. This gives you a reference point for recognizing objects, sounds, or room details that change later.",
+          "checklist": [
+            "Check visible objects",
+            "Notice lighting and sounds",
+            "Remember anything unusual"
+          ]
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Approach Visitors Carefully",
+          "description": "When someone arrives, do not immediately let them inside. Move to the door, observe the visitor, and wait for the available interaction or dialogue before deciding.",
+          "checklist": [
+            "Observe before opening",
+            "Read all dialogue",
+            "Avoid instant decisions"
+          ]
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Look for Anomalies",
+          "description": "Compare the visitor's appearance, behavior, and statements with what you have already seen. Strange details or inconsistent information can indicate that the encounter is dangerous.",
+          "checklist": [
+            "Inspect facial and body details",
+            "Watch for unusual behavior",
+            "Notice inconsistent dialogue"
+          ]
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Make the Door Decision",
+          "description": "Choose whether to trust or reject the visitor only after completing your inspection. Allowing the wrong person inside or rejecting an important visitor can change the outcome of the night.",
+          "checklist": [
+            "Review visible clues",
+            "Consider the visitor's explanation",
+            "Choose carefully"
+          ]
+        },
+        {
+          "title": "Repeat the Survival Loop",
+          "description": "After each encounter, check the house again and prepare for the next visitor. Continue observing, comparing, and deciding until the current sequence reaches its ending.",
+          "checklist": [
+            "Recheck nearby rooms",
+            "Watch for environmental changes",
+            "Prepare for the next encounter"
+          ]
+        }
+      ]
+    },
+    "survivalTips": {
+      "eyebrow": "Survival",
+      "title": "Home Alone Anomaly Survival Tips",
+      "subtitle": "Use these practical checks to identify suspicious visitors, notice changes inside the house, and avoid preventable deaths.",
+      "cards": [
+        {
+          "icon": "Clock",
+          "title": "Never Decide Immediately",
+          "description": "Wait until you have inspected the visitor and read the full conversation. A rushed door choice can end the run before important warning signs become clear.",
+          "priority": "Essential"
+        },
+        {
+          "icon": "Eye",
+          "title": "Check the Visitor's Appearance",
+          "description": "Look closely for unusual facial features, body details, movement, or other visual inconsistencies before allowing anyone into the house.",
+          "priority": "Essential"
+        },
+        {
+          "icon": "MessageCircle",
+          "title": "Read Every Dialogue Line",
+          "description": "Visitor dialogue can provide clues about identity, intentions, or contradictions. Skipping text makes suspicious encounters harder to judge.",
+          "priority": "Essential"
+        },
+        {
+          "icon": "Users",
+          "title": "Compare Repeated Encounters",
+          "description": "A familiar visitor should not automatically be trusted. Compare their current appearance and behavior with earlier encounters because small differences may matter.",
+          "priority": "High"
+        },
+        {
+          "icon": "Home",
+          "title": "Recheck the House",
+          "description": "Environmental changes can appear between visitor encounters. Inspect nearby rooms and visible objects instead of remaining at the door for the entire night.",
+          "priority": "High"
+        },
+        {
+          "icon": "AlertTriangle",
+          "title": "Use Sound as a Warning",
+          "description": "Pay attention to knocks, movement, and other audio cues. Unexpected sounds can signal a new visitor or a change somewhere inside the house.",
+          "priority": "High"
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Remember Previous Clues",
+          "description": "Keep track of what visitors said and how the house looked earlier. Later choices may depend on recognizing a contradiction or repeated anomaly.",
+          "priority": "Useful"
+        },
+        {
+          "icon": "ArrowRight",
+          "title": "Stay Near a Clear Route",
+          "description": "Learn the shortest route between the main rooms and the entrance. Moving confidently through the house makes repeated inspections faster and safer.",
+          "priority": "Useful"
+        }
+      ]
+    },
+    "controlsAndMechanics": {
+      "eyebrow": "Gameplay Basics",
+      "title": "Home Alone Anomaly Controls and Mechanics",
+      "subtitle": "Understand movement, interaction, visitor inspection, dialogue decisions, and the core encounter loop.",
+      "rows": [
+        {
+          "action": "Move",
+          "input": "WASD or left analog stick",
+          "purpose": "Walk through the house and approach interactive areas.",
+          "mechanic": "Movement is used to inspect rooms, return to the entrance, and investigate changes."
+        },
+        {
+          "action": "Look Around",
+          "input": "Mouse movement or right analog stick",
+          "purpose": "Examine visitors, objects, and the surrounding environment.",
+          "mechanic": "Careful visual inspection helps reveal suspicious details and environmental anomalies."
+        },
+        {
+          "action": "Interact",
+          "input": "Follow the on-screen interaction prompt",
+          "purpose": "Use doors, examine available objects, and begin visitor interactions.",
+          "mechanic": "Interaction prompts appear when the player is close enough to a usable object or encounter point."
+        },
+        {
+          "action": "Inspect the Door",
+          "input": "Approach the entrance and use the available prompt",
+          "purpose": "Observe the person waiting outside before making a decision.",
+          "mechanic": "The door encounter is the main point where visitor information and visual clues are presented."
+        },
+        {
+          "action": "Advance Dialogue",
+          "input": "Select or confirm the displayed dialogue option",
+          "purpose": "Continue conversations and reveal additional information.",
+          "mechanic": "Dialogue can contain clues, contradictions, and information needed to judge a visitor."
+        },
+        {
+          "action": "Choose a Response",
+          "input": "Select one of the displayed choices",
+          "purpose": "Decide how to handle the current visitor or event.",
+          "mechanic": "Choices affect whether a visitor is accepted, rejected, or handled through another available response."
+        },
+        {
+          "action": "Check the Environment",
+          "input": "Move between rooms and inspect visible details",
+          "purpose": "Look for changes that appeared after an encounter.",
+          "mechanic": "The house can provide additional warning signs beyond the visitor standing at the door."
+        },
+        {
+          "action": "Continue the Night",
+          "input": "Complete the current encounter",
+          "purpose": "Advance to the next visitor or story event.",
+          "mechanic": "The survival loop repeats through inspection, dialogue, decision-making, and environmental checking."
+        }
+      ]
+    },
+    "updates": {
+      "eyebrow": "Game Updates",
+      "title": "Home Alone Anomaly Updates",
+      "subtitle": "Follow changes to the experience, including visitor content, gameplay adjustments, fixes, and developer announcements.",
+      "items": [
+        {
+          "title": "New Visitor Content",
+          "summary": "Additional visitor encounters can introduce new dialogue, appearances, and decision outcomes.",
+          "details": [
+            "New visitors may require different inspection methods",
+            "Existing assumptions may not apply to newly added encounters",
+            "Dialogue and visual clues should be reviewed before making a choice"
+          ]
+        },
+        {
+          "title": "Visitor Behavior Changes",
+          "summary": "Updates can adjust how existing visitors appear, speak, or react during door encounters.",
+          "details": [
+            "Dialogue clues may be changed or expanded",
+            "Visual anomalies may become easier or harder to notice",
+            "Previously safe decisions may need to be reconsidered"
+          ]
+        },
+        {
+          "title": "House and Environment Changes",
+          "summary": "The house layout, interactive areas, lighting, sounds, or environmental events may be adjusted.",
+          "details": [
+            "New environmental clues may appear between encounters",
+            "Existing room details may be changed",
+            "Audio and lighting adjustments can affect anomaly detection"
+          ]
+        },
+        {
+          "title": "Gameplay Balance Adjustments",
+          "summary": "Balance changes can affect encounter timing, decision difficulty, and the overall survival loop.",
+          "details": [
+            "Visitor sequences may be adjusted",
+            "Interaction timing may be changed",
+            "Decision windows may become shorter or longer"
+          ]
+        },
+        {
+          "title": "Bug Fixes",
+          "summary": "Fixes address problems with interactions, dialogue, visitor events, movement, or progression.",
+          "details": [
+            "Door interactions may receive stability fixes",
+            "Dialogue or choice progression issues may be corrected",
+            "Environmental events may trigger more consistently"
+          ]
+        },
+        {
+          "title": "Interface and Control Improvements",
+          "summary": "Updates may improve prompts, dialogue visibility, mobile controls, or other interface elements.",
+          "details": [
+            "Interaction prompts may become clearer",
+            "Mobile input behavior may be adjusted",
+            "Dialogue presentation may be improved"
+          ]
+        },
+        {
+          "title": "Developer Announcements",
+          "summary": "The developer community can publish notices about upcoming content, maintenance, and major changes.",
+          "details": [
+            "Check announcements before starting a new guide route",
+            "Review major changes that affect visitor decisions",
+            "Look for maintenance or temporary gameplay notices"
+          ]
         }
       ]
     }
@@ -749,31 +567,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Home Alone Anomaly",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly is a Roblox doorstep horror survival game where you inspect visitors, spot anomalies, and decide who to trust in order to survive the night."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I survive in Home Alone Anomaly?",
+        "answer": "Inspect every visitor carefully, read all dialogue, compare the house with its normal state, and keep the door closed whenever a detail feels wrong."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Who should I trust in Home Alone Anomaly?",
+        "answer": "Treat every visitor as suspicious until their appearance, dialogue, and reason for arriving all stay consistent. Familiarity alone is never enough to confirm a visitor is safe."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "What are anomalies in Home Alone Anomaly?",
+        "answer": "Anomalies are changes inside or around the house, such as unexpected figures, moved objects, lighting shifts, or unexplained sounds, that warn a dangerous event may be near."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How many endings does Home Alone Anomaly have?",
+        "answer": "Home Alone Anomaly builds toward a final scene that unlocks when you survive the visitor encounters and anomaly events without inviting danger inside."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where can I play Home Alone Anomaly?",
+        "answer": "Home Alone Anomaly is a free Roblox experience you can play through the official Roblox game page on any supported device."
       }
     ]
   },
@@ -801,125 +619,125 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "walkthrough": {
+      "title": "Home Alone Anomaly Walkthrough",
+      "description": "Complete step-by-step walkthrough for surviving every visitor and anomaly from the start of the night to the final scene.",
+      "metaTitle": "Home Alone Anomaly Walkthrough - Full Night Survival Route",
+      "metaDescription": "Follow the complete Home Alone Anomaly walkthrough covering every visitor inspection, anomaly clue, and survival decision needed to reach the final scene.",
+      "categoryLabel": "WALKTHROUGH",
+      "whatIs": "What is the walkthrough?",
+      "whatIsDescription": "A full chronological route through Home Alone Anomaly that explains each inspection, visitor encounter, and survival decision in order.",
+      "why": "Why follow the walkthrough?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Learn the Inspection Order",
+        "step1Description": "Understand which rooms and details to check before each encounter",
+        "step2Title": "Handle Visitors Safely",
+        "step2Description": "Apply the correct response to each visitor type",
+        "step3Title": "Reach the Final Scene",
+        "step3Description": "Avoid the mistakes that end a run early"
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Walkthrough Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "visitors": {
+      "title": "Home Alone Anomaly Visitors Guide",
+      "description": "Identify every doorstep visitor, read their warning signs, and learn the safest response for each encounter.",
+      "metaTitle": "Home Alone Anomaly Visitors Guide - Who to Trust",
+      "metaDescription": "Learn how to judge every visitor in Home Alone Anomaly using appearance, dialogue, and behavior, and decide who is safe to let inside.",
+      "categoryLabel": "VISITORS",
+      "whatIs": "What is the visitors guide?",
+      "whatIsDescription": "A breakdown of every visitor type in Home Alone Anomaly, including their warning signs and the recommended response at the door.",
+      "why": "Why study visitors?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Spot Warning Signs",
+        "step1Description": "Recognize abnormal features and inconsistent stories",
+        "step2Title": "Avoid Bad Decisions",
+        "step2Description": "Stop trusting visitors based on familiarity alone",
+        "step3Title": "Stay Consistent",
+        "step3Description": "Apply a repeatable inspection method to every encounter"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Visitor Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "anomalies": {
+      "title": "Home Alone Anomaly Anomalies Guide",
+      "description": "Recognize visual, sound, and environmental anomalies inside the house and learn how to respond to each one.",
+      "metaTitle": "Home Alone Anomaly Anomalies Guide - Clues & Warnings",
+      "metaDescription": "Identify every anomaly type in Home Alone Anomaly, from unexpected figures to lighting changes, and learn the safest response to each warning sign.",
+      "categoryLabel": "ANOMALIES",
+      "whatIs": "What are anomalies?",
+      "whatIsDescription": "Unusual events and changes inside or around the house in Home Alone Anomaly that signal a dangerous visitor or threat may be near.",
+      "why": "Why track anomalies?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Notice Changes Early",
+        "step1Description": "Compare each room with its normal state",
+        "step2Title": "Read the Warnings",
+        "step2Description": "Connect anomalies to nearby threats",
+        "step3Title": "Respond Safely",
+        "step3Description": "Avoid interacting with clearly abnormal events"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Anomaly Guides"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "endings": {
+      "title": "Home Alone Anomaly Endings Guide",
+      "description": "Understand the final scene, the decisions that lead to it, and the mistakes that end a run early.",
+      "metaTitle": "Home Alone Anomaly Endings Guide - Reach the Final Scene",
+      "metaDescription": "Learn how to reach the final scene in Home Alone Anomaly and avoid the common choices that cause an early failure.",
+      "categoryLabel": "ENDINGS",
+      "whatIs": "What is the endings guide?",
+      "whatIsDescription": "An explanation of the final outcome in Home Alone Anomaly and the survival decisions that determine whether the night is completed.",
+      "why": "Why read the endings guide?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Reach the Final Scene",
+        "step1Description": "Complete the required encounters safely",
+        "step2Title": "Avoid Early Fails",
+        "step2Description": "Skip the choices that end a run early",
+        "step3Title": "Stay Consistent",
+        "step3Description": "Keep applying safe responses until the end"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Endings Guides"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "survival": {
+      "title": "Home Alone Anomaly Survival Tips",
+      "description": "Practical checks and habits that help you inspect visitors, notice changes, and survive the night more consistently.",
+      "metaTitle": "Home Alone Anomaly Survival Tips - Survive Every Night",
+      "metaDescription": "Use these Home Alone Anomaly survival tips to inspect visitors, catch environmental changes, and avoid preventable deaths throughout the night.",
+      "categoryLabel": "SURVIVAL",
+      "whatIs": "What are the survival tips?",
+      "whatIsDescription": "A collection of practical survival habits for Home Alone Anomaly that make visitor inspections and anomaly detection more reliable.",
+      "why": "Why use survival tips?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Inspect Reliably",
+        "step1Description": "Build a repeatable visitor inspection routine",
+        "step2Title": "Catch Changes",
+        "step2Description": "Notice environmental shifts between encounters",
+        "step3Title": "Avoid Common Mistakes",
+        "step3Description": "Stop the choices that cause preventable deaths"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Survival Guides"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "updates": {
+      "title": "Home Alone Anomaly Updates",
+      "description": "Track new visitor content, gameplay adjustments, fixes, and developer announcements for Home Alone Anomaly.",
+      "metaTitle": "Home Alone Anomaly Updates - Patch Notes & News",
+      "metaDescription": "Follow the latest Home Alone Anomaly updates including new visitors, behavior changes, environment adjustments, fixes, and developer announcements.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are the updates?",
+      "whatIsDescription": "Ongoing changes to Home Alone Anomaly, including new visitor content, balance adjustments, bug fixes, and developer announcements.",
+      "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Adapt to New Visitors",
+        "step1Description": "Adjust inspection methods for added encounters",
+        "step2Title": "Notice Behavior Changes",
+        "step2Description": "Reconsider decisions affected by balance updates",
+        "step3Title": "Stay Informed",
+        "step3Description": "Check developer announcements before a new run"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Updates"
     }
   }
 }
