@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Home Alone Anomaly Wiki - Walkthrough, Visitors & Endings",
+  "short_name": "Home Alone Anomaly",
+  "description": "Home Alone Anomaly Wiki covers the full walkthrough, visitors, anomalies, endings, choices, survival tips, and secrets for the Roblox doorstep anomaly horror game.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#d22e22",
+  "background_color": "#0c1018",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
