@@ -399,49 +399,49 @@
           "icon": "Jam",
           "title": "Jangan Memutuskan Langsung",
           "description": "Tunggu sampai Anda telah memeriksa pengunjung dan membaca percakapan penuh. Pilihan pintu yang terburu-buru dapat mengakhiri lomba sebelum tanda peringatan penting menjadi jelas.",
-          "priority": "Penting"
+          "priority": "Essential"
         },
         {
           "icon": "mata",
           "title": "Periksa Penampilan Pengunjung",
           "description": "Lihat mendalam untuk ciri wajah yang aneh, detil tubuh, gerakan, atau ketidaksempadan visual lain sebelum membiarkan siapapun masuk ke rumah.",
-          "priority": "Penting"
+          "priority": "Essential"
         },
         {
           "icon": "CirclePesan",
           "title": "Baca Setiap Baris Dialog",
           "description": "Dialog pengunjung dapat memberikan petunjuk tentang identitas, kehendak, atau kontradiksi. Melewatkan teks akan membuat pertemuannya yang mencurigakan lebih sulit untuk dihakimi.",
-          "priority": "Penting"
+          "priority": "Essential"
         },
         {
           "icon": "Pengguna",
           "title": "Bandingkan Pertemu yang Berulang",
           "description": "Pengunjung yang familier tidak seharusnya diharapkan dapat dipercaya secara otomatis. Bandingkan penampilan dan perilakunya saat ini dengan pertemuannya sebelumnya karena perbedaan kecil dapat berarti.",
-          "priority": "Tinggi"
+          "priority": "High"
         },
         {
           "icon": "Rumah",
           "title": "Periksa Rumah Kembali",
           "description": "Perubahan lingkungan dapat muncul antara pertemuannya pengunjung. Periksa ruangan dekat dan objek yang terlihat daripada tetap berada di pintu selama malam penuh.",
-          "priority": "Tinggi"
+          "priority": "High"
         },
         {
           "icon": "AlertTriangle",
           "title": "Gunakan Suara Sebagai Peringatan",
           "description": "Perhatikan gong, gerakan, dan petunjuk audio lainnya. Suara yang tak terduga dapat menandai pengunjung baru atau perubahan di tempat lain di dalam rumah.",
-          "priority": "Tinggi"
+          "priority": "High"
         },
         {
           "icon": "ClipboardCheck",
           "title": "Ingat Petunjuk Sebelumnya",
           "description": "Ikuti apa yang dikatakan pengunjung dan bagaimana rumah terlihat sebelumnya. Pilihan kemudian dapat menggantung atas mengenali kontradiksi atau anomali yang berulang.",
-          "priority": "Berguna"
+          "priority": "Useful"
         },
         {
           "icon": "ArrowRight",
           "title": "Tetap Dekat dengan jalur yang Jelas",
           "description": "pelajari jalur terpendek antara ruangan utama dan pintu masuk. Bergerak dengan percaya diri di dalam rumah membuat pemeriksaan berulang lebih cepat dan aman.",
-          "priority": "Berguna"
+          "priority": "Useful"
         }
       ]
     },

@@ -399,49 +399,49 @@
           "icon": "Reloj",
           "title": "Nunca Decidir de Inmediato",
           "description": "Espera hasta que hayas inspeccionado al visitante y hayas leído toda la conversación. Una elección apresurada en la puerta puede terminar la partida antes de que se vuelvan claros los signos de alerta importantes.",
-          "priority": "Esencial"
+          "priority": "Essential"
         },
         {
           "icon": "Ojo",
           "title": "Revisa la Apariencia del Visitante",
           "description": "Busca detalladamente características faciales inusuales, detalles del cuerpo, movimiento u otras incoherencias visuales antes de permitir que alguien entre en la casa.",
-          "priority": "Esencial"
+          "priority": "Essential"
         },
         {
           "icon": "MensajeCírculo",
           "title": "Lee Cada Línea de Diálogo",
           "description": "El diálogo del visitante puede proporcionar pistas sobre la identidad, las intenciones o contradicciones. Saltar texto hace que las confrontaciones sospechosas sean más difíciles de juzgar.",
-          "priority": "Esencial"
+          "priority": "Essential"
         },
         {
           "icon": "Usuarios",
           "title": "Comparar Encuentros Repetidos",
           "description": "Un visitante familiar no debe ser automáticamente confiado. Compara su apariencia y comportamiento actuales con encuentros anteriores, ya que las pequeñas diferencias pueden importar.",
-          "priority": "Alto"
+          "priority": "High"
         },
         {
           "icon": "Casa",
           "title": "Revisa la Casa de Nuevo",
           "description": "Los cambios ambientales pueden aparecer entre los encuentros de visitantes. Inspecciona las habitaciones cercanas y los objetos visibles en lugar de permanecer en la puerta toda la noche.",
-          "priority": "Alto"
+          "priority": "High"
         },
         {
           "icon": "AlertaTriángulo",
           "title": "Usa el Sonido como Alerta",
           "description": "Presta atención a los golpes, movimiento y otros sonidos auditivos. Los sonidos inesperados pueden indicar un nuevo visitante o un cambio en algún lugar dentro de la casa.",
-          "priority": "Alto"
+          "priority": "High"
         },
         {
           "icon": "ClipboardCheck",
           "title": "Recuerda las Clues Previas",
           "description": "Mantén registro de lo que dijeron los visitantes y cómo se veía la casa anteriormente. Las decisiones posteriores pueden depender de reconocer una contradicción o una anomalía repetida.",
-          "priority": "Útil"
+          "priority": "Useful"
         },
         {
           "icon": "FlechaDerecha",
           "title": "Mantente Cerca de una Ruta Clara",
           "description": "Aprende la ruta más corta entre las habitaciones principales y la entrada. Moverse con confianza por la casa hace que las inspecciones repetidas sean más rápidas y seguras.",
-          "priority": "Útil"
+          "priority": "Useful"
         }
       ]
     },

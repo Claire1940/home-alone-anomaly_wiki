@@ -399,49 +399,49 @@
           "icon": "Relógio",
           "title": "Nunca Decida Imediatamente",
           "description": "Aguarde até ter inspeccionado o visitante e lido a conversa completa. Uma escolha de porta apressada pode acabar a jogada antes de sinais importantes se tornarem claros.",
-          "priority": "Essencial"
+          "priority": "Essential"
         },
         {
           "icon": "Olho",
           "title": "Verifique a Aparência do Visitante",
           "description": "Olhe de perto para feições faciais, detalhes do corpo, movimento ou outras inconsistências visuais antes de permitir que alguém entre na casa.",
-          "priority": "Essencial"
+          "priority": "Essential"
         },
         {
           "icon": "MensagemCírculo",
           "title": "Leia Cada Linha de Diálogo",
           "description": "O diálogo do visitante pode fornecer pistas sobre a identidade, intenções ou contradições. Pular o texto torna encontros suspeitos mais difíceis de julgar.",
-          "priority": "Essencial"
+          "priority": "Essential"
         },
         {
           "icon": "Usuários",
           "title": "Compare Encuentros Repetidos",
           "description": "Um visitante familiar não deve ser automaticamente confiável. Compare sua aparência e comportamento com encontros anteriores, pois pequenas diferenças podem importar.",
-          "priority": "Alto"
+          "priority": "High"
         },
         {
           "icon": "Casa",
           "title": "Reverifique a Casa",
           "description": "Mudanças ambientais podem aparecer entre encontros de visitantes. Inspeccione quartos próximos e objetos visíveis em vez de permanecer na porta toda a noite.",
-          "priority": "Alto"
+          "priority": "High"
         },
         {
           "icon": "AlertaTriângulo",
           "title": "Use o Som como um Aviso",
           "description": "Preste atenção a batidas, movimento e outros sinais auditivos. Sons inesperados podem sinalizar um novo visitante ou uma mudança somewhere dentro da casa.",
-          "priority": "Alto"
+          "priority": "High"
         },
         {
           "icon": "ClipBoardVerifique",
           "title": "Lembre-se das Clues Anteriores",
           "description": "Mantenha track do que os visitantes disseram e como a casa parecia anteriormente. Decisões posteriores podem depender de reconhecer uma contradição ou repetição de anormalidades.",
-          "priority": "Útil"
+          "priority": "Useful"
         },
         {
           "icon": "FrenteDireita",
           "title": "Fique Próximo de um Caminho Claro",
           "description": "Aprenda o caminho mais curto entre os quartos principais e a entrada. Mover-se com confiança pela casa torna inspeções repetidas mais rápidas e seguras.",
-          "priority": "Útil"
+          "priority": "Useful"
         }
       ]
     },
