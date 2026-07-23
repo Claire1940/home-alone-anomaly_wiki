@@ -1,0 +1,74 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "Home Alone Anomaly: Panduan Selamat Bersembunyi Lengkap",
+  description: "Pertahankan kemampuan bertahan hidup malam di Home Alone Anomaly dengan panduan yang khusus kami.",
+  category: "Panduan",
+  image: "https://placehold.co/800x400/059669/fff?text=Home+Alone+Anomaly+Survival",
+  date: "2026-07-24",
+  author: "Tim Wiki Home Alone Anomaly"
+};
+
+<Callout type="info" title="Panduan Cepat">
+- **Kata kunci utama**: Bertahan hidup di Home Alone Anomaly
+- **Mekanik penting**: Pemeriksaan tamu dan deteksi anomal
+- **Strategi terbaik**: Perhatian dan pengamatan
+- **Tingkat penting**: Selalu cek kembali sebelum membuat keputusan
+- **Pilihan terbaik**: Tetap berada dekat pintu utama untuk keamanan
+</Callout>
+
+<Section icon={Map} title="Memahami Permainan">
+Permainan ini berlangsung di lingkungan residential tempat pemain harus memeriksa tamu dan mendeteksi anomal untuk bertahan malam. Permainan ini memiliki berbagai tamu, masing-masing dengan penampilan, dialog, dan perilaku yang pemain harus analisis untuk membuat keputusan yang informasi."
+</Section>
+
+<Section icon={Swords} title="Tingkat Bertahan Hidup">
+<Checklist
+  id="survival-tips"
+  title="Tingkat Bertahan Hidup yang Esensial:"
+  items={[
+    "Periksa setiap tamu dengan seksama",
+    "Tetapkan jalur pemeriksaan yang konsisten",
+    "Jangan percaya siapapun sampai terbukti aman",
+    "Periksa kembali rumah setelah setiap pertemuan",
+    "Tetap berada dekat pintu utama untuk keamanan"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Pertemuan Tamu">
+Pemain akan mendapatkan berbagai tamu di pintu. Setiap tamu memiliki ciri khas dan perilaku yang pemain harus mengevaluasi. Penting bagi pemain untuk menaruh perhatian kepada penampilan, dialog, dan tindakan mereka untuk menentukan apakah mereka dapat dipercaya atau adalah ancaman."
+</Section>
+
+<Section icon={Trophy} title="Deteksi Anomal">
+Anomal dapat muncul dalam bentuk perubahan visual, suara yang aneh, atau gerakan yang tak diharapkan. Pemain harus berhati-hati dan mengamati lingkungan mereka untuk mendeteksi anomali ini secara awal dan meresponnya dengan benar."
+</Section>
+
+<Section icon={Shield} title="Membuat Keputusan">
+Setiap keputusan di permainan dapat memiliki konsekuensi yang besar. Pemain harus berhati-hati mempertimbangkan pilihan mereka dan membuat keputusan yang informasi berdasarkan informasi yang mereka kumpulkan selama pemeriksaan dan pertemuan."
+</Section>
+
+<Section icon={Sparkles} title="Strategi Bertahan Hidup Mahir">
+Untuk pemain yang ingin menunjukkan kemampuan di Home Alone Anomaly, ada beberapa strategi mahir yang harus dipertimbangkan. Ini termasuk mempertahankan log yang detil tentang tamu dan anomal, menggunakan petunjuk lingkungan untuk memprediksi perilaku tamu, dan mengembangkan rutinita bertahan hidup yang maksimalkan keamanan dan efisiensi."
+</Section>
+
+<FAQ items={[
+  {
+    question: "Bagaimana cara memeriksa tamu?",
+    answer: "Periksa tamu dengan mengamati penampilan mereka, mendengarkan dialog mereka, dan menganalisis perilakunya. Cari setiap ketidaksesuaian atau ciri yang aneh yang mungkin menandakan mereka adalah ancaman."
+  },
+  {
+    question: "Apa yang harus saya lakukan jika saya mendeteksi anomali?",
+    answer: "Ketika Anda mendeteksi anomali, tinggalkan tempat Anda dan评估 situasi. Jika aman untuk melakukannya, investigasikan anomali lebih lanjut. Jika terlalu berbahaya, mundur ke tempat yang aman dan pertimbangkan langkah berikutnya."
+  },
+  {
+    question: "Adakah cara untuk bertahan hidup di setiap pertemuan?",
+    answer: "Meskipun menantang untuk bertahan hidup di setiap pertemuan, pemain dapat meningkatkan kesempatan bertahan hidup mereka dengan mengikuti tingkat bertahan hidup dan strategi yang disebutkan di panduan ini."
+  }
+]} />

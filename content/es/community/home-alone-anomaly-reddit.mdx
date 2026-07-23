@@ -1,0 +1,74 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "Home Alone Anomaly: Guía de Supervivencia Completa",
+  description: "Dominar el arte de sobrevivir la noche en Home Alone Anomaly con nuestra guía completa.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=Home+Alone+Anomaly+Survival",
+  date: "2026-07-24",
+  author: "Equipo de Wiki de Home Alone Anomaly"
+};
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Supervivencia en Home Alone Anomaly
+- **Mecánica clave**: Inspección de visitantes y detección de anormalidades
+- **Mejor estrategia**: Paciencia y observación
+- **Consejo crucial**: Siempre revisa dos veces antes de tomar decisiones
+- **Elección superior**: Mantente cerca de la entrada principal para tu seguridad
+</Callout>
+
+<Section icon={Map} title="Entendiendo el Juego">
+El juego tiene lugar en un entorno residencial donde los jugadores deben inspeccionar a los visitantes y detectar anormalidades para sobrevivir la noche. El juego presenta una variedad de visitantes, cada uno con su propia apariencia, diálogo y comportamiento que los jugadores deben analizar para tomar decisiones informadas.
+</Section>
+
+<Section icon={Swords} title="Consejos de Supervivencia">
+<Checklist
+  id="survival-tips"
+  title="Consejos de Supervivencia Esenciales:"
+  items={[
+    "Inspecciona a cada visitante con cuidado",
+    "Mantén una ruta de inspección consistente",
+    "No confíes en nadie hasta que esté demostrado que es seguro",
+    "Revisa la casa después de cada encuentro",
+    "Mantente cerca de la entrada principal para tu seguridad"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Encuentros con Visitantes">
+Los jugadores se encontrarán con varios visitantes a la puerta. Cada visitante tiene características y comportamientos únicos que los jugadores deben evaluar. Es crucial prestar atención a su apariencia, diálogo y acciones para determinar si son dignos de confianza o una amenaza.
+</Section>
+
+<Section icon={Trophy} title="Detección de Anomalías">
+Las anormalidades pueden aparecer en forma de cambios visuales, sonidos inusuales o movimientos inesperados. Los jugadores deben ser vigilantes y observar su entorno para detectar estas anormalidades a tiempo y responder adecuadamente.
+</Section>
+
+<Section icon={Shield} title="Tomar Decisiones">
+Cada decisión en el juego puede tener consecuencias significativas. Los jugadores deben considerar cuidadosamente sus opciones y tomar decisiones informadas basadas en la información que recopilan durante sus inspecciones y encuentros.
+</Section>
+
+<Section icon={Sparkles} title=" Estrategias de Supervivencia Avanzadas">
+Para los jugadores que buscan destacar en Home Alone Anomaly, hay varias estrategias avanzadas a considerar. Estas incluyen mantener un registro detallado de visitantes y anormalidades, usar pistas ambientales para predecir el comportamiento de los visitantes y desarrollar un rutina de supervivencia que maximice la seguridad y la eficiencia.
+</Section>
+
+<FAQ items={[
+  {
+    question: "¿Cómo inspecto a un visitante?",
+    answer: "Inspecciona a un visitante observando su apariencia, escuchando su diálogo y analizando su comportamiento. Busca cualquier incoherencia o rasgo inusual que pueda indicar que es una amenaza."
+  },
+  {
+    question: "¿Qué debo hacer si detecto una anormalidad?",
+    answer: "Cuando detectes una anormalidad, da un paso atrás y evalúa la situación. Si es seguro hacerlo, investiga la anormalidad más a fondo. Si es demasiado peligroso, retrocede a un lugar seguro y considera tus siguientes pasos."
+  },
+  {
+    question: "¿Hay alguna manera de sobrevivir a cada encuentro?",
+    answer: "Si bien es desafiante sobrevivir a cada encuentro, los jugadores pueden aumentar sus oportunidades de supervivencia siguiendo los consejos y estrategias detallados en esta guía."
+  }
+]} />

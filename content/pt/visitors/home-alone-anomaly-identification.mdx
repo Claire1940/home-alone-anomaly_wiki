@@ -1,0 +1,117 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guia de Identificação de Anomalias do Home Alone Anomaly",
+  description: "Aprenda a identificar anomalias no Home Alone Anomaly com nossa guia completa, incluindo dicas, truques e estratégias.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/059669/fff?text=Guia+de+Identificação+de+Anomalias+do+Home+Alone+Anomaly",
+  date: "2026-07-24",
+  author: "Equipe de Wiki do Home Alone Anomaly"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Identificar Anomalias**: Aprenda os sinais para identificar anomalias no jogo.
+- **Dicas de Sobrevivência**: Dicas essenciais para sobreviver a encontros com anomalias.
+- **Equipamento Melhor**: Equipamento ótimo para lidar com anomalias.
+- **Estratégias para a Vitória**: Estratégias comprovadas para superar anomalias e vencer.
+</Callout>
+
+<Section icon={Map} title="Entendendo as Anomalias">
+
+<Callout type="tip" title="O que são Anomalias?">
+As anomalias são ocorrências inusitadas que podem aparecer no jogo, muitas vezes causando desafios inesperados e exigindo estratégias diferentes para lidar com elas.
+</Callout>
+
+<Checklist
+  id="anomaly-signs"
+  title="Sinais de Anomalias:"
+  items={[
+    "Padrões de tempo estranhos",
+    "Comportamento anormal de NPCs",
+    "Obstáculos surgindo repentinamente",
+    "Aumento da dificuldade em tarefas"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Dicas de Sobrevivência">
+
+<Steps>
+  <Step num="1" title="Mantenha-se Alerta">
+    Esteja sempre atento aos sinais de anomalias. Preste atenção ao seu entorno e mantenha-se vigilante.
+  </Step>
+  <Step num="2" title="Prepare-se para o Inesperado">
+    Tenha um plano de contingência caso uma anomalia ocorra. Sempre esteja preparado com suprimentos e recursos extras.
+  </Step>
+  <Step num="3" title="Use o Equipamento de Maneira Inteligente">
+    Utilize seu equipamento de maneira eficaz. Por exemplo, use equipamento protetor para se proteger das anomalias.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Equipamento e Acessórios">
+
+<CardGrid cols={3}>
+  <Card title="Equipamento Protetor">
+    - **Armadura**: Oferece proteção contra anomalias.
+    - **Escudos**: Bloqueia ataques de anomalias.
+  </Card>
+  <Card title="Itens Úteis">
+    - **Lanternas**: Ajuda em anomalias de baixa luminosidade.
+    - **Kit de Primeiros Socorros**: Útil para tratar ferimentos.
+  </Card>
+  <Card title="Ferramentas Especiais">
+    - **Detetores de Anomalias**: Identifica anomalias antes que se tornem perigosas.
+    - **Disruptores de Anomalias**: Neutraliza anomalias, permitindo que você passe por elas de forma segura.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Estratégias para Superar Anomalias">
+
+<Callout type="warning" title="Estratégia Importante">
+Priorize sua segurança sempre. Se uma anomalia for muito perigosa para lidar, é melhor recuar e reagrupar-se.
+</Callout>
+
+<Steps>
+  <Step num="1" title="Identificar a Anomalia">
+    Determine o tipo de anomalia que você está enfrentando. Isso ajudará você a escolher a estratégia certa.
+  </Step>
+  <Step num="2" title="Planejar Sua Abordagem">
+  Desenvolva um plano com base no comportamento da anomalia e em seus recursos.
+  </Step>
+  <Step num="3" title="Executar Seu Plano">
+  Realize seu plano enquanto mantém-se alerta para quaisquer mudanças no comportamento da anomalia.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Shield} title="Perguntas Frequentes">
+
+<FAQ items={[
+  {
+    question: "Como eu reconheço uma anomalia no jogo?",
+    answer: "Procure por padrões de tempo estranhos, comportamento anormal de NPCs ou obstáculos surgindo repentinamente."
+  },
+  {
+    question: "O que devo fazer se encontrar uma anomalia?",
+    answer: "Mantenha-se alerta, use seu equipamento de maneira inteligente e, se a anomalia for muito perigosa, recue e reagrupar-se."
+  },
+  {
+    question: "Existem ferramentas específicas para ajudar com anomalias?",
+    answer: "Sim, detetores de anomalias e disruptores podem ajudar a identificar e neutralizar anomalias."
+  }
+]} />
+
+</Section>

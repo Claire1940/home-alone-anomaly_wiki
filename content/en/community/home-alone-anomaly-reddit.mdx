@@ -1,0 +1,74 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Home Alone Anomaly: Complete Survival Guide",
+  description: "Master the art of surviving the night in Home Alone Anomaly with our comprehensive guide.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=Home+Alone+Anomaly+Survival",
+  date: "2026-07-24",
+  author: "home alone anomaly Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: Home Alone Anomaly survival
+- **Key mechanic**: Visitor inspections and anomaly detection
+- **Best strategy**: Patience and observation
+- **Critical tip**: Always double-check before making decisions
+- **Top choice**: Stay near the main entrance for safety
+</Callout>
+
+<Section icon={Map} title="Understanding the Game">
+The game takes place in a residential setting where players must inspect visitors and detect anomalies to survive the night. The game features a variety of visitors, each with their own appearance, dialogue, and behavior that players must analyze to make informed decisions.
+</Section>
+
+<Section icon={Swords} title="Survival Tips">
+<Checklist
+  id="survival-tips"
+  title="Essential Survival Tips:"
+  items={[
+    "Inspect every visitor carefully",
+    "Keep a consistent inspection route",
+    "Trust no one until proven safe",
+    "Recheck the house after each encounter",
+    "Stay near the main entrance for safety"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Visitor Encounters">
+Players will encounter various visitors at the door. Each visitor has unique traits and behaviors that players must assess. It's crucial to pay attention to their appearance, dialogue, and actions to determine if they are trustworthy or a threat.
+</Section>
+
+<Section icon={Trophy} title="Anomaly Detection">
+Anomalies can appear in the form of visual changes, unusual sounds, or unexpected movements. Players must be vigilant and observe their surroundings to detect these anomalies early and respond appropriately.
+</Section>
+
+<Section icon={Shield} title="Making Decisions">
+Every decision in the game can have significant consequences. Players must carefully consider their options and make informed decisions based on the information they gather during their inspections and encounters.
+</Section>
+
+<Section icon={Sparkles} title="Advanced Survival Strategies">
+For players looking to excel in Home Alone Anomaly, there are several advanced strategies to consider. These include maintaining a detailed log of visitors and anomalies, using environmental clues to predict visitor behavior, and developing a survival routine that maximizes safety and efficiency.
+</Section>
+
+<FAQ items={[
+  {
+    question: "How do I inspect a visitor?",
+    answer: "Inspect a visitor by observing their appearance, listening to their dialogue, and analyzing their behavior. Look for any inconsistencies or unusual traits that might indicate they are a threat."
+  },
+  {
+    question: "What should I do if I encounter an anomaly?",
+    answer: "When you detect an anomaly, take a step back and assess the situation. If it's safe to do so, investigate the anomaly further. If it's too dangerous, retreat to a safe location and consider your next steps."
+  },
+  {
+    question: "Is there a way to survive every encounter?",
+    answer: "While it's challenging to survive every encounter, players can increase their chances of survival by following the survival tips and strategies outlined in this guide."
+  }
+]} />

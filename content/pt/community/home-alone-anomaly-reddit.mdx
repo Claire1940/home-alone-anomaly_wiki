@@ -1,0 +1,74 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Home Alone Anomaly: Guia Completo de Sobrevivência",
+  description: "Domine a arte de sobreviver à noite em Home Alone Anomaly com nossa guia completa.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/059669/fff?text=Home+Alone+Anomaly+Survival",
+  date: "2026-07-24",
+  author: "Equipe de Wiki do Home Alone Anomaly"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Palavra-chave principal**: Sobrevivência em Home Alone Anomaly
+- **Mecânica-chave**: Inspeções de visitantes e detecção de anormalidades
+- **Melhor estratégia**: Paciência e observação
+- **Dica crucial**: Sempre verifique duas vezes antes de tomar decisões
+- **Escolha top**: Fique perto da entrada principal para segurança
+</Callout>
+
+<Section icon={Map} title="Entendendo o Jogo">
+O jogo ocorre em um ambiente residencial onde os jogadores devem inspecionar visitantes e detectar anormalidades para sobreviver à noite. O jogo possui uma variedade de visitantes, cada um com sua própria aparência, diálogo e comportamento que os jogadores devem analisar para tomar decisões informadas.
+</Section>
+
+<Section icon={Swords} title="Dicas de Sobrevivência">
+<Checklist
+  id="survival-tips"
+  title="Dicas Essenciais de Sobrevivência:"
+  items={[
+    "Inspeccione cada visitante cuidadosamente",
+    "Mantenha um roteiro de inspeção consistente",
+    "Não confie em ninguém até que seja provado seguro",
+    "Reinsira a casa após cada encontro",
+    "Fique perto da entrada principal para segurança"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Encontros com Visitantes">
+Os jogadores encontrarão vários visitantes na porta. Cada visitante tem traços e comportamentos únicos que os jogadores devem avaliar. É crucial prestar atenção à sua aparência, diálogo e ações para determinar se são confiáveis ou uma ameaça.
+</Section>
+
+<Section icon={Trophy} title="Detecção de Anormalidades">
+As anormalidades podem aparecer na forma de mudanças visuais, sons estranhos ou movimentos inesperados. Os jogadores devem ser vigilantes e observar seu entorno para detectar essas anormalidades cedo e responder apropriadamente.
+</Section>
+
+<Section icon={Shield} title="Tomada de Decisões">
+Cada decisão no jogo pode ter consequências significativas. Os jogadores devem considerar cuidadosamente suas opções e tomar decisões informadas com base na informação que coletam durante suas inspeções e encontros.
+</Section>
+
+<Section icon={Sparkles} title="Estratégias Avançadas de Sobrevivência">
+Para jogadores que desejam se destacar em Home Alone Anomaly, há várias estratégias avançadas a considerar. Isso inclui manter um registro detalhado de visitantes e anormalidades, usar pistas ambientais para prever o comportamento dos visitantes e desenvolver um rotina de sobrevivência que maximize a segurança e a eficiência.
+</Section>
+
+<FAQ items={[
+  {
+    question: "Como inspeccionar um visitante?",
+    answer: "Inspeccione um visitante observando sua aparência, escutando seu diálogo e analisando seu comportamento. Procure por qualquer inconsistência ou traço estranho que possa indicar que ele é uma ameaça."
+  },
+  {
+    question: "O que devo fazer se encontrar uma anormalidade?",
+    answer: "Quando você detectar uma anormalidade, recue um passo e avalie a situação. Se for seguro fazer isso, investigue a anormalidade mais profundamente. Se for perigoso, recue para um local seguro e considere seus próximos passos."
+  },
+  {
+    question: "Há uma maneira de sobreviver a todos os encontros?",
+    answer: "Embora seja desafiador sobreviver a todos os encontros, os jogadores podem aumentar suas chances de sobrevivência seguindo as dicas e estratégias detalhadas neste guia."
+  }
+]} />

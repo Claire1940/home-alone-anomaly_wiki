@@ -1,0 +1,49 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Cara Bermain Home Alone Anomaly",
+  description: "Cara Bermain Home Alone Anomaly: ringkasan, detil penting, dan apa yang harus diketahui.",
+  category: "Panduan",
+  image: "https://placehold.co/800x400/059669/fff?text=Cara+Bermain+Home+Alone+Anomaly",
+  date: "2026-07-22",
+  author: "Tim Wiki Home Alone Anomaly"
+}
+
+## ⚠️ Aturan Kunci - Harap Dikirimi Teguh:
+
+**Aturan 1: Pertahankan semua statement import**
+- Konten asli dimulai dengan statement import, seperti `import { Map, Swords } from 'lucide-react'`
+- Harap mempertahankan semua baris import ini di awal transkripsi
+- Jangan lewati, ubah, atau terjemahkan apapun statement import
+
+**Aturan 2：⛔️ Jangan menambahkan tanda kutip kode blok (```**)
+- ⚠️ Ini adalah kesalahan yang paling umum, harap dihindari!
+- Jangan menambahkan ``` di depan statement import
+- Jangan menambahkan ``` di depan dan belakang statement export metadata
+- Jangan menambahkan ``` di konten MDX
+- ❌ Contoh kesalahan:
+  ```
+  ```
+  import { Map } from 'lucide-react'
+  ```
+  Ini salah! Jangan lakukan demikian!
+  ```
+- ✅ Contoh yang benar:
+  ```
+  import { Map } from 'lucide-react'
+
+  export const metadata = { ... }
+
+  <Section>konten</Section>
+  ```
+  Outputkan langsung, tanpa ada tanda kutip kode blok
+
+**Aturan 3：Hanya terjemahkan konten teks**
+- Pertahankan semua kode, nama komponen, dan elemen teknis

@@ -1,0 +1,117 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Panduan Identifikasi Anomaly Home Alone",
+  description: "Belajar bagaimana mengidentifikasi anomaly di Home Alone Anomaly dengan panduan yang kaya, termasuk tips, trik, dan strategi.",
+  category: "Panduan",
+  image: "https://placehold.co/800x400/059669/fff?text=Home+Alone+Anomaly+Identification+Guide",
+  date: "2026-07-24",
+  author: "Tim Wiki Home Alone Anomaly"
+}
+
+<Callout type="info" title="Panduan Cepat">
+- **Identifikasi Anomaly**: Belajar tanda untuk melihat anomaly di permainan.
+- **Tips untuk Bertahan Hidup**: Tips penting untuk bertahan dalam pertemu anomaly.
+- **Peralatan Terbaik**: Peralatan yang optimal untuk menghadapi anomaly.
+- **Strategi Kemenangan**: Strategi yang terbukti untuk mengatasi anomaly dan menang.
+</Callout>
+
+<Section icon={Map} title="Memahami Anomaly">
+
+<Callout type="tip" title="Apa Itu Anomaly?">
+Anomaly adalah kejadian yang aneh yang dapat muncul di permainan, sering kali menyebabkan tantangan yang tak diharapkan dan memerlukan strategi yang berbeda untuk dihadapi.
+</Callout>
+
+<Checklist
+  id="anomaly-signs"
+  title="Tanda Anomaly:"
+  items={[
+    "Pola cuaca yang aneh",
+    "Perilaku NPC yang abnormal",
+    "Tandai dengan gangguan yang muncul tak beriawal",
+    "Kesulitan yang meningkat dalam tugas"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Tips Bertahan Hidup">
+
+<Steps>
+  <Step num="1" title="Lewatkan Kepada Anomaly">
+    Selalu berhati-hati untuk menemukan tanda anomaly. Perhatikan lingkungan sekitar dan tetap berhati-hati.
+  </Step>
+  <Step num="2" title="Persiapkan untuk Kecelakaan yang Tidak Duga">
+    Memiliki rencana cadangan dalam kasus terjadinya anomaly. Selalu siap dengan persediaan dan sumber daya tambahan.
+  </Step>
+  <Step num="3" title="Gunakan Peralatan Dengan Bijak">
+    Gunakan peralatan Anda dengan efektif. Contohnya, gunakan peralatan pelindung untuk melindungi diri dari anomaly.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Peralatan dan Peralatan">
+
+<CardGrid cols={3}>
+  <Card title="Peralatan Pelindung">
+    - **Peralatan Pertahanan**: Menyediakan perlindungan terhadap anomaly.
+    - **Pancasila**: Mencegah serangan dari anomaly.
+  </Card>
+  <Card title="Item Utilitas">
+    - **Peralatan Pencahayaan**: Bantu di anomaly yang gelap.
+    - **Kit Pertolong Pertama**: Berguna untuk merawat luka.
+  </Card>
+  <Card title="Alat Khusus">
+    - **Detektor Anomaly**: Mengidentifikasi anomaly sebelum ia menjadi berbahaya.
+    - **Disruptor Anomaly**: Neutraalkan anomaly, memungkinkan Anda untuk melewati dengan aman.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Strategi untuk Mengatasi Anomaly">
+
+<Callout type="warning" title="Strategi penting">
+Selalu utamakan keamanan Anda. Jika anomaly terlalu berbahaya untuk dihadapi, lebih baik mundur dan bersama-sama kembali.
+</Callout>
+
+<Steps>
+  <Step num="1" title="Identifikasi Anomaly">
+    Tentukan jenis anomaly yang Anda hadapi. Ini akan membantu Anda memilih strategi yang tepat.
+  </Step>
+  <Step num="2" title="Buat Rencana Pendekatan">
+  Buat rencana berdasarkan perilaku anomaly dan sumber daya Anda.
+  </Step>
+  <Step num="3" title="Laksanakan Rencana">
+  Laksanakan rencana sementara tetap berhati-hati atas perubahan perilaku anomaly.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Shield} title="Pertanyaan Umum">
+
+<FAQ items={[
+  {
+    question: "Bagaimana saya mengenali anomaly di permainan?",
+    answer: "Cari pola cuaca yang aneh, perilaku NPC yang abnormal, atau gangguan yang muncul tak beriawal."
+  },
+  {
+    question: "Apa yang saya lakukan jika saya menghadapi anomaly?",
+    answer: "Lewatkan kepadanya, gunakan peralatan Anda dengan bijak, dan jika anomaly terlalu berbahaya, mundur dan bersama-sama kembali."
+  },
+  {
+    question: "Adakah alat khusus untuk membantu dengan anomaly?",
+    answer: "Ya, detektor anomaly dan disruptor dapat membantu mengidentifikasi dan neutralisir anomaly."
+  }
+]} />
+
+</Section>
